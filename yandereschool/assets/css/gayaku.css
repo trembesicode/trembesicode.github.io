@@ -1,0 +1,28 @@
+@font-face {
+    font-family: MyFont;
+    color: #fff;
+    src: url("../../assets/font/FuturaCondensedMedium.otf")
+}
+body {
+    font-family: MyFont;
+    font-weight: 400;
+    /*font-size: 1.4rem;*/
+    text-align: justify;
+    text-shadow: 2px 2px 4px #333,0 0 1px #000;
+    color: #fff;
+    background-color: #FCADF1;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1 {font-size: 2.8em; /* 40px/16=2.5em */}
+h2 {font-size: 2.3em; /* 30px/16=1.875em */}
+h3 {font-size: 1.8em; /* 30px/16=1.875em */}
+h4 {font-size: 1.4em; /* 30px/16=1.875em */}
+p {font-size: 1.2em; /* 14px/16=0.875em */}
+a:link {text-decoration: none;text-shadow: 2px 2px 4px rgb(212, 212, 212),0 0 1px rgb(161, 161, 161);}
+a:visited {text-decoration: none;}
+a:hover {text-decoration: underline;}
+a:active {text-decoration: underline;}

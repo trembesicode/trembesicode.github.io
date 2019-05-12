@@ -1,0 +1,43 @@
+<?php
+//include "../../stelkendo.php";
+?>
+
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<head>
+    <link rel="stylesheet" type="text/css" href="../../assets/css/gayaku.css">
+</head>
+
+<body>
+
+<img src='../gambar/makiosono.png' width="100%" />
+
+<h3>Makio Sono</h3>
+<p>Makio Sono is one of the main characters of the game, "Yandere School". He is Akari Furutaka's obsession, and the main reason that she "needs" to kill.</p>
+<p>&nbsp;</p>
+
+<h3>Appearance</h3>
+<p>Makio is a young man of average build with short, straight, blonde hair; though his bangs are rather spiky. <br>He has narrow, blue eyes that have a downwards curve and a lightly tanned complexion.</p>
+<p>&nbsp;</p>
+
+<h3>Personality</h3>
+<p>Makio is polite and cheery young man, he behaves kindly towards most; unless, of course, he witnesses Akari committing a crime, spurring him to call her a, "Monster" and prompting an immediate game over.</p>
+<p>&nbsp;</p>
+
+<h3>History</h3>
+<p>He is obviously quite popular, as many people seem to like him. He is rather athletic, and plays baseball.<br>
+Nothing is known about his family.</p>
+<p>&nbsp;</p>
+
+<h3>Routine</h3>
+<h4>Chapter 1:</h4>
+<p>Before class: <br>Makio Sono arrives on school grounds, and dresses for P.E.</p>
+<p>Classtime: <br>Makio Sono goes to the track, waits for his class. He then runs a full lap and then leaves. He changes back into his normal school uniform. </p>
+<p>&nbsp;</p>
+
+
+<p>&nbsp;</p>
+</body>
+</html>

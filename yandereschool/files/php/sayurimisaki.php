@@ -1,0 +1,47 @@
+<?php
+//include "../../stelkendo.php";
+?>
+
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<head>
+    <link rel="stylesheet" type="text/css" href="../../assets/css/gayaku.css">
+</head>
+
+<body>
+
+<!--img src='../gambar/akarifurutaka.png' width="100%" /-->
+
+<h3>Sayuri Misaki</h3>
+<p>Sayuri Misaki is a teacher in Yandere School, and Hanae Sugimura's best friend.</p>
+<p>&nbsp;</p>
+
+<h3>Appearance</h3>
+<p>She has fair skin and Yellow hair and blue eyes. She wears a long-sleeved white button up shirt with a low collar and a black pencil skirt. She also wears a cute pair of black heels.</p>
+<p>&nbsp;</p>
+
+<h3>Personality</h3>
+<p>As she is a part of the Faculty, she will have the Strict persona and will have extensive self-defense training.</p>
+<p>Her defining character trait will be unintentional sexual innuendos. She appears to be sultry and seductive.</p>
+<p>&nbsp;</p>
+
+<h3>Trivia</h3>
+<p>Oh, myyyyy! Has someone taken a liking to me? *Giggle*... You know, dear, all you had to do was ask... Is this pose better for you, darling~?</p>
+<ul>
+    <li>
+        <p>Hypothetical Dialogue If She Had A Crush On Makio Sono.</p>
+    </li>
+    <li>
+        <p>Sayuri Is The Vice Principal Under Hanae Sugimara.</p>
+    </li>
+    <li>
+        <p>"Rumored To Have A Crush On Victoria Ishihara".</p>
+    </li>
+</ul>
+<p>&nbsp;</p>
+
+</body>
+</html>
+

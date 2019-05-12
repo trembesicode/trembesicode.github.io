@@ -1,0 +1,34 @@
+<?php
+//include "../../stelkendo.php";
+?>
+
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<head>
+    <link rel="stylesheet" type="text/css" href="../../assets/css/gayaku.css">
+</head>
+
+<body>
+
+<img src='../gambar/tomionakano.png' width="100%" />
+
+<h3>Tomio Nakano</h3>
+<p>Tomio Nakano is a male student of Yandere School.</p>
+<p>He's a part of the computer club, so he's often talking with the head. For example: before lessons, they go talking on the rooftop, and they talk about programming computers. He says he'd like to create a game about zombies, This May Be A Hint To Tea And Cake's Next Game.</p>
+<p>He Is The Only Gay character In The Game.</p>
+<p>&nbsp;</p>
+
+<h3>Appearance</h3>
+<p>He's tall and he's got straight green hair and green eyes. He's got a fair complexion.</p>
+<p>&nbsp;</p>
+
+<h3>NOTE</h3>
+<p>He can be pushed off the roof, along with the club head and Angelina (chapter 2)</p>
+<p>&nbsp;</p>
+
+
+</body>
+</html>
+
