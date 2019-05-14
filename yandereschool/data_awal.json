@@ -1,0 +1,42 @@
+{
+    "ERROR": "false",
+    "MESSAGE": "fetching sukses",
+    "RESPONSE": [
+        {
+			"data_app": [
+				{
+					"update_app": "false",
+					"update_url": ""
+				}
+			],
+			
+            "data_iklan": [
+                {
+					"mode_iklan": "0",
+					
+					"admob_appid": "",
+                    "admob_banner": "",
+                    "admob_inters": "",
+					
+					"appota_banner": "",
+					"appota_rect": "",
+					"appota_inters": "",
+					
+					"fb_banner": "",
+					"fb_rect": "",
+					"fb_inters": "",
+					
+					"startapp_id": ""
+                }
+            ],
+			
+			"data_konten": [
+				{
+					"konten_url": ""
+				}
+			]
+        }
+		
+    ]
+}
+
