@@ -5,7 +5,7 @@
         {
 			"data_app": [
 				{
-					"update_app": "true",
+					"update_app": "false",
 					"update_url": "https://play.google.com/store/apps/details?id=com.sasipitu.dzikrulghofilin2",
 					"update_judul": "Update",
 					"update_deskripsi": "Sorry, this application is outdated, please update or replace the application with the new version."
