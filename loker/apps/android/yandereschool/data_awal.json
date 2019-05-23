@@ -16,18 +16,22 @@
                 {
 					"mode_iklan": "0",
 					
+					"admob_aktif": true,
 					"admob_appid": "",
                     "admob_banner": "",
                     "admob_inters": "",
 					
+					"appota_aktif": false,
 					"appota_banner": "",
 					"appota_rect": "",
 					"appota_inters": "",
 					
+					"fb_aktif": false,
 					"fb_banner": "",
 					"fb_rect": "",
 					"fb_inters": "",
 					
+					"startapp_aktif": false,
 					"startapp_id": ""
                 }
             ],
