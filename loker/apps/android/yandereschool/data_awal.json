@@ -14,7 +14,7 @@
 			
             "data_yotro": [
                 {
-					"admob_aktif": true,
+					"admob_aktif": false,
 					"admob_pub_id": "",
 					"admob_appid": "",
                     "admob_banner": "",
