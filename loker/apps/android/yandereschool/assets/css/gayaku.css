@@ -13,7 +13,7 @@ body {
     background-color: #FCADF1;
 }
 img {
-    display: none;
+    display: block;
     margin-left: auto;
     margin-right: auto;
 }
