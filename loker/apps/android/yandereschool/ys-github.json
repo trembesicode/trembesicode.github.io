@@ -2,166 +2,166 @@
     "ERROR": "false",
     "MESSAGE": "fetching sukses",
     "RESPONSE": [
-        {
-            "item_gambar": "http://trembesi.github.io/yandereschool/files/gambar/ic_about.png",
+        {			
+            "item_gambar": "https://trembesi.github.io/loker/apps/android/yandereschool/files/gambar/ic_about.png",
             "item_judul": "Overview",
             "item_deskripsi": "get to know your game",
             "konten": [
                 {
-					"subitem_icon": "http://trembesi.github.io/yandereschool/files/gambar/about.png",
+					"subitem_icon": "https://trembesi.github.io/loker/apps/android/yandereschool/files/gambar/about.png",
                     "subitem_judul": "Overview",
-                    "subitem_konten": "http://trembesi.github.io/yandereschool/files/page/about.html"
+                    "subitem_konten": "https://trembesi.github.io/loker/apps/android/yandereschool/files/page/about.html"
                 }
             ]
         },
         {
-            "item_gambar": "http://trembesi.github.io/yandereschool/files/gambar/ic_level.png",
+            "item_gambar": "https://trembesi.github.io/loker/apps/android/yandereschool/files/gambar/ic_level.png",
             "item_judul": "Game Levels",
             "item_deskripsi": "level of the game",
             "konten": [
                 {
-					"subitem_icon": "http://trembesi.github.io/yandereschool/files/gambar/c1-1.png",
+					"subitem_icon": "https://trembesi.github.io/loker/apps/android/yandereschool/files/gambar/c1-1.png",
                     "subitem_judul": "Chapter 1",
-                    "subitem_konten": "http://trembesi.github.io/yandereschool/files/page/chp1.html"
+                    "subitem_konten": "https://trembesi.github.io/loker/apps/android/yandereschool/files/page/chp1.html"
                 },
                 {
-					"subitem_icon": "http://trembesi.github.io/yandereschool/files/gambar/n1.png",
+					"subitem_icon": "https://trembesi.github.io/loker/apps/android/yandereschool/files/gambar/n1.png",
                     "subitem_judul": "Nightmare 1",
-                    "subitem_konten": "http://trembesi.github.io/yandereschool/files/page/n1.html"
+                    "subitem_konten": "https://trembesi.github.io/loker/apps/android/yandereschool/files/page/n1.html"
                 },
                 {
-					"subitem_icon": "http://trembesi.github.io/yandereschool/files/gambar/c2.png",
+					"subitem_icon": "https://trembesi.github.io/loker/apps/android/yandereschool/files/gambar/c2.png",
                     "subitem_judul": "Chapter 2",
-                    "subitem_konten": "http://trembesi.github.io/yandereschool/files/page/chp2.html"
+                    "subitem_konten": "https://trembesi.github.io/loker/apps/android/yandereschool/files/page/chp2.html"
                 },
                 {
-					"subitem_icon": "http://trembesi.github.io/yandereschool/files/gambar/n2.png",
+					"subitem_icon": "https://trembesi.github.io/loker/apps/android/yandereschool/files/gambar/n2.png",
                     "subitem_judul": "Nightmare 2",
-                    "subitem_konten": "http://trembesi.github.io/yandereschool/files/page/n2.html"
+                    "subitem_konten": "https://trembesi.github.io/loker/apps/android/yandereschool/files/page/n2.html"
                 },
                 {
-					"subitem_icon": "http://trembesi.github.io/yandereschool/files/gambar/c3.png",
+					"subitem_icon": "https://trembesi.github.io/loker/apps/android/yandereschool/files/gambar/c3.png",
                     "subitem_judul": "Chapter 3",
-                    "subitem_konten": "http://trembesi.github.io/yandereschool/files/page/chp3.html"
+                    "subitem_konten": "https://trembesi.github.io/loker/apps/android/yandereschool/files/page/chp3.html"
                 },
                 {
-					"subitem_icon": "http://trembesi.github.io/yandereschool/files/gambar/n3.png",
+					"subitem_icon": "https://trembesi.github.io/loker/apps/android/yandereschool/files/gambar/n3.png",
                     "subitem_judul": "Nightmare 3",
-                    "subitem_konten": "http://trembesi.github.io/yandereschool/files/page/n3.html"
+                    "subitem_konten": "https://trembesi.github.io/loker/apps/android/yandereschool/files/page/n3.html"
                 },
                 {
-					"subitem_icon": "http://trembesi.github.io/yandereschool/files/gambar/c4.png",
+					"subitem_icon": "https://trembesi.github.io/loker/apps/android/yandereschool/files/gambar/c4.png",
                     "subitem_judul": "Chapter 4",
-                    "subitem_konten": "http://trembesi.github.io/yandereschool/files/page/chp4.html"
+                    "subitem_konten": "https://trembesi.github.io/loker/apps/android/yandereschool/files/page/chp4.html"
                 },
                 {
-					"subitem_icon": "http://trembesi.github.io/yandereschool/files/gambar/n4.png",
+					"subitem_icon": "https://trembesi.github.io/loker/apps/android/yandereschool/files/gambar/n4.png",
                     "subitem_judul": "Nightmare 4",
-                    "subitem_konten": "http://trembesi.github.io/yandereschool/files/page/n4.html"
+                    "subitem_konten": "https://trembesi.github.io/loker/apps/android/yandereschool/files/page/n4.html"
                 },
                 {
-					"subitem_icon": "http://trembesi.github.io/yandereschool/files/gambar/c5.png",
+					"subitem_icon": "https://trembesi.github.io/loker/apps/android/yandereschool/files/gambar/c5.png",
                     "subitem_judul": "Chapter 5",
-                    "subitem_konten": "http://trembesi.github.io/yandereschool/files/page/chp5.html"
+                    "subitem_konten": "https://trembesi.github.io/loker/apps/android/yandereschool/files/page/chp5.html"
                 }
             ]
         },
         {
-            "item_gambar": "http://trembesi.github.io/yandereschool/files/gambar/ic_char.png",
+            "item_gambar": "https://trembesi.github.io/loker/apps/android/yandereschool/files/gambar/ic_char.png",
             "item_judul": "Characters",
             "item_deskripsi": "characters explanation",
             "konten": [
                 {
-					"subitem_icon": "http://trembesi.github.io/yandereschool/files/gambar/akarifurutaka.png",
+					"subitem_icon": "https://trembesi.github.io/loker/apps/android/yandereschool/files/gambar/akarifurutaka.png",
                     "subitem_judul": "Akari Furutaka",
-                    "subitem_konten": "http://trembesi.github.io/yandereschool/files/page/akarifurutaka.html"
+                    "subitem_konten": "https://trembesi.github.io/loker/apps/android/yandereschool/files/page/akarifurutaka.html"
                 },
                 {
-					"subitem_icon": "http://trembesi.github.io/yandereschool/files/gambar/makiosono.png",
+					"subitem_icon": "https://trembesi.github.io/loker/apps/android/yandereschool/files/gambar/makiosono.png",
                     "subitem_judul": "Makio Sono",
-                    "subitem_konten": "http://trembesi.github.io/yandereschool/files/page/makiosono.html"
+                    "subitem_konten": "https://trembesi.github.io/loker/apps/android/yandereschool/files/page/makiosono.html"
                 },
                 {
-					"subitem_icon": "http://trembesi.github.io/yandereschool/files/gambar/meisaito.png",
+					"subitem_icon": "https://trembesi.github.io/loker/apps/android/yandereschool/files/gambar/meisaito.png",
                     "subitem_judul": "Meisa Ito",
-                    "subitem_konten": "http://trembesi.github.io/yandereschool/files/page/meisaito.html"
+                    "subitem_konten": "https://trembesi.github.io/loker/apps/android/yandereschool/files/page/meisaito.html"
                 },
                 {
-					"subitem_icon": "http://trembesi.github.io/yandereschool/files/gambar/angelinaivanova.png",
+					"subitem_icon": "https://trembesi.github.io/loker/apps/android/yandereschool/files/gambar/angelinaivanova.png",
                     "subitem_judul": "Angelina Ivanova",
-                    "subitem_konten": "http://trembesi.github.io/yandereschool/files/page/angelinaivanova.html"
+                    "subitem_konten": "https://trembesi.github.io/loker/apps/android/yandereschool/files/page/angelinaivanova.html"
                 },
                 {
-					"subitem_icon": "http://trembesi.github.io/yandereschool/files/gambar/norikotajima.png",
+					"subitem_icon": "https://trembesi.github.io/loker/apps/android/yandereschool/files/gambar/norikotajima.png",
                     "subitem_judul": "Noriko Tajima",
-                    "subitem_konten": "http://trembesi.github.io/yandereschool/files/page/norikotajima.html"
+                    "subitem_konten": "https://trembesi.github.io/loker/apps/android/yandereschool/files/page/norikotajima.html"
                 },
                 {
-					"subitem_icon": "http://trembesi.github.io/yandereschool/files/gambar/sayakaito.png",
+					"subitem_icon": "https://trembesi.github.io/loker/apps/android/yandereschool/files/gambar/sayakaito.png",
                     "subitem_judul": "Saya Kaito",
-                    "subitem_konten": "http://trembesi.github.io/yandereschool/files/page/sayakaito.html"
+                    "subitem_konten": "https://trembesi.github.io/loker/apps/android/yandereschool/files/page/sayakaito.html"
                 },
                 {
-					"subitem_icon": "http://trembesi.github.io/yandereschool/files/gambar/erikosakura.png",
+					"subitem_icon": "https://trembesi.github.io/loker/apps/android/yandereschool/files/gambar/erikosakura.png",
                     "subitem_judul": "Eriko Sakura",
-                    "subitem_konten": "http://trembesi.github.io/yandereschool/files/page/erikosakura.html"
+                    "subitem_konten": "https://trembesi.github.io/loker/apps/android/yandereschool/files/page/erikosakura.html"
                 },
                 {
-					"subitem_icon": "http://trembesi.github.io/yandereschool/files/gambar/terumiyasuda.png",
+					"subitem_icon": "https://trembesi.github.io/loker/apps/android/yandereschool/files/gambar/terumiyasuda.png",
                     "subitem_judul": "Terumi Takahira & Omi Yasuda",
-                    "subitem_konten": "http://trembesi.github.io/yandereschool/files/page/terumiyasuda.html"
+                    "subitem_konten": "https://trembesi.github.io/loker/apps/android/yandereschool/files/page/terumiyasuda.html"
                 },
                 {
-					"subitem_icon": "http://trembesi.github.io/yandereschool/files/gambar/keitahiyama.png",
+					"subitem_icon": "https://trembesi.github.io/loker/apps/android/yandereschool/files/gambar/keitahiyama.png",
                     "subitem_judul": "Keita Hiyama",
-                    "subitem_konten": "http://trembesi.github.io/yandereschool/files/page/keitahiyama.html"
+                    "subitem_konten": "https://trembesi.github.io/loker/apps/android/yandereschool/files/page/keitahiyama.html"
                 },
                 {
-					"subitem_icon": "http://trembesi.github.io/yandereschool/files/gambar/ryoichitaniguchi.png",
+					"subitem_icon": "https://trembesi.github.io/loker/apps/android/yandereschool/files/gambar/ryoichitaniguchi.png",
                     "subitem_judul": "Ryoichi Taniguchi",
-                    "subitem_konten": "http://trembesi.github.io/yandereschool/files/page/ryoichitaniguchi.html"
+                    "subitem_konten": "https://trembesi.github.io/loker/apps/android/yandereschool/files/page/ryoichitaniguchi.html"
                 },
                 {
-					"subitem_icon": "http://trembesi.github.io/yandereschool/files/gambar/tomionakano.png",
+					"subitem_icon": "https://trembesi.github.io/loker/apps/android/yandereschool/files/gambar/tomionakano.png",
                     "subitem_judul": "Tomio Nakano",
-                    "subitem_konten": "http://trembesi.github.io/yandereschool/files/page/tomionakano.html"
+                    "subitem_konten": "https://trembesi.github.io/loker/apps/android/yandereschool/files/page/tomionakano.html"
                 },
                 {
-					"subitem_icon": "http://trembesi.github.io/yandereschool/files/gambar/keishionozawa.png",
+					"subitem_icon": "https://trembesi.github.io/loker/apps/android/yandereschool/files/gambar/keishionozawa.png",
                     "subitem_judul": "Keishi Onozawa",
-                    "subitem_konten": "http://trembesi.github.io/yandereschool/files/page/keishionozawa.html"
+                    "subitem_konten": "https://trembesi.github.io/loker/apps/android/yandereschool/files/page/keishionozawa.html"
                 },
                 {
-					"subitem_icon": "http://trembesi.github.io/yandereschool/files/gambar/ic_about.png",
+					"subitem_icon": "https://trembesi.github.io/loker/apps/android/yandereschool/files/gambar/ic_about.png",
                     "subitem_judul": "Sayuri Misaki",
-                    "subitem_konten": "http://trembesi.github.io/yandereschool/files/page/sayurimisaki.html"
+                    "subitem_konten": "https://trembesi.github.io/loker/apps/android/yandereschool/files/page/sayurimisaki.html"
                 },
                 {
-					"subitem_icon": "http://trembesi.github.io/yandereschool/files/gambar/ic_about.png",
+					"subitem_icon": "https://trembesi.github.io/loker/apps/android/yandereschool/files/gambar/ic_about.png",
                     "subitem_judul": "Hanae Sugimura",
-                    "subitem_konten": "http://trembesi.github.io/yandereschool/files/page/hanaesugimura.html"
+                    "subitem_konten": "https://trembesi.github.io/loker/apps/android/yandereschool/files/page/hanaesugimura.html"
                 }
             ]
         },
         {
-            "item_gambar": "http://trembesi.github.io/yandereschool/files/gambar/ic_mech.png",
+            "item_gambar": "https://trembesi.github.io/loker/apps/android/yandereschool/files/gambar/ic_mech.png",
             "item_judul": "Game Tips",
             "item_deskripsi": "game mechanics",
             "konten": [
                 {
-					"subitem_icon": "http://trembesi.github.io/yandereschool/files/gambar/ic_weapon.png",
+					"subitem_icon": "https://trembesi.github.io/loker/apps/android/yandereschool/files/gambar/ic_weapon.png",
                     "subitem_judul": "Weapons",
-                    "subitem_konten": "http://trembesi.github.io/yandereschool/files/page/weapons.html"
+                    "subitem_konten": "https://trembesi.github.io/loker/apps/android/yandereschool/files/page/weapons.html"
                 },
                 {
-					"subitem_icon": "http://trembesi.github.io/yandereschool/files/gambar/ic_gameover.png",
+					"subitem_icon": "https://trembesi.github.io/loker/apps/android/yandereschool/files/gambar/ic_gameover.png",
                     "subitem_judul": "Game Over",
-                    "subitem_konten": "http://trembesi.github.io/yandereschool/files/page/gameover.html"
+                    "subitem_konten": "https://trembesi.github.io/loker/apps/android/yandereschool/files/page/gameover.html"
                 },
                 {
-					"subitem_icon": "http://trembesi.github.io/yandereschool/files/gambar/ic_ways.png",
+					"subitem_icon": "https://trembesi.github.io/loker/apps/android/yandereschool/files/gambar/ic_ways.png",
                     "subitem_judul": "Ways of Elimination",
-                    "subitem_konten": "http://trembesi.github.io/yandereschool/files/page/waysofelimination.html"
+                    "subitem_konten": "https://trembesi.github.io/loker/apps/android/yandereschool/files/page/waysofelimination.html"
                 }
             ]
         }
