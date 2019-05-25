@@ -20,21 +20,21 @@
                     "admob_banner": "ca-app-pub-3940256099942544/6300978111",
                     "admob_inters": "ca-app-pub-3940256099942544/1033173712",
 					
-					"appota_aktif": false,
+					"appota_aktif": true,
 					"appota_pub_id": "",
-					"appota_banner": "",
-					"appota_rect": "",
-					"appota_inters": "",
+					"appota_banner": "/6499/example/banner",
+					"appota_rect": "/6499/example/banner",
+					"appota_inters": "/6499/example/interstitial",
 					
-					"fb_aktif": false,
+					"fb_aktif": true,
 					"fb_pub_id": "",
 					"fb_banner": "",
 					"fb_rect": "",
 					"fb_inters": "",
 					
-					"startapp_aktif": false,
+					"startapp_aktif": true,
 					"startapp_pub_id": "",
-					"startapp_id": ""
+					"startapp_id": "208708013"
                 }
             ],
 			
