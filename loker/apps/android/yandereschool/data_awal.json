@@ -34,7 +34,8 @@
 					
 					"startapp_aktif": true,
 					"startapp_pub_id": "",
-					"startapp_id": "201808772"
+					"startapp_id": "201808772",
+					"startapp_splash_aktif": true
                 }
             ],
 			
