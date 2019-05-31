@@ -26,13 +26,13 @@
 					"appota_rect": "/6499/example/banner",
 					"appota_inters": "/6499/example/interstitial",
 					
-					"fb_aktif": false,
+					"fb_aktif": true,
 					"fb_pub_id": "",
 					"fb_banner": "626643081135361_626643564468646",
 					"fb_rect": "",
 					"fb_inters": "",
 					
-					"startapp_aktif": true,
+					"startapp_aktif": false,
 					"startapp_pub_id": "",
 					"startapp_id": "201808772",
 					"startapp_splash_aktif": false
