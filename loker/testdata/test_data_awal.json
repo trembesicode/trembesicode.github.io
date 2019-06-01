@@ -1,0 +1,36 @@
+{
+    "ERROR": "false",
+    "MESSAGE": "fetching sukses",
+    "RESPONSE": [
+        {
+            "data_yotro": [
+                {
+					"admob_aktif": true,
+					"admob_pub_id": "pub-3940256099942544",
+					"admob_appid": "ca-app-pub-3940256099942544~3347511713",
+                    "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+                    "admob_inters": "ca-app-pub-3940256099942544/1033173712",
+					
+					"appota_aktif": false,
+					"appota_pub_id": "",
+					"appota_banner": "/6499/example/banner",
+					"appota_rect": "/6499/example/banner",
+					"appota_inters": "/6499/example/interstitial",
+					
+					"fb_aktif": true,
+					"fb_pub_id": "",
+					"fb_banner": "123456123456123_123456789012345",
+					"fb_rect": "",
+					"fb_inters": "123456123456123_123456789012345",
+					
+					"startapp_aktif": true,
+					"startapp_pub_id": "",
+					"startapp_id": "2018",
+					"startapp_splash_aktif": false
+                }
+            ]
+        }
+		
+    ]
+}
+
