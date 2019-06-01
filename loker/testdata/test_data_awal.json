@@ -3,6 +3,15 @@
     "MESSAGE": "fetching sukses",
     "RESPONSE": [
         {
+			"data_app": [
+				{
+					"update_app": false,
+					"update_url": "https://play.google.com/store/apps/details?id=com.sasipitu.dzikrulghofilin2",
+					"update_judul": "Update",
+					"update_deskripsi": "Sorry, this application is outdated, please update or replace the application with the new version."
+				}
+			],
+			
             "data_yotro": [
                 {
 					"admob_aktif": true,
@@ -28,7 +37,13 @@
 					"startapp_id": "2018",
 					"startapp_splash_aktif": false
                 }
-            ]
+            ],
+			
+			"data_konten": [
+				{
+					"konten_url": ""
+				}
+			]
         }
 		
     ]
