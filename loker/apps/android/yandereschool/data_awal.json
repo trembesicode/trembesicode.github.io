@@ -14,7 +14,7 @@
 			
             "data_yotro": [
                 {
-					"admob_aktif": false,
+					"admob_aktif": true,
 					"admob_pub_id": "pub-3940256099942544",
 					"admob_appid": "ca-app-pub-3940256099942544~3347511713",
                     "admob_banner": "ca-app-pub-3940256099942544/6300978111",
@@ -32,7 +32,7 @@
 					"fb_rect": "",
 					"fb_inters": "",
 					
-					"startapp_aktif": false,
+					"startapp_aktif": true,
 					"startapp_pub_id": "",
 					"startapp_id": "201808772",
 					"startapp_splash_aktif": false
