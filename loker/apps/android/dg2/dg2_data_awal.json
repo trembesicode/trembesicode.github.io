@@ -1,0 +1,55 @@
+{
+    "ERROR": false,
+    "MESSAGE": "fetching sukses",
+    "RESPONSE": [
+        {
+			"data_app": [
+				{
+					"update_app": false,
+					"update_url": "https://play.google.com/store/apps/details?id=com.sasipitu.dzikrulghofilin2",
+					"update_judul": "Update",
+					"update_deskripsi": "Sorry, this application is outdated, please update or replace the application with the new version."
+				}
+			],
+			
+            "data_yotro": [
+                {
+					"admob_safety": false,
+					"admob_aktif": false,
+					"admob_pub_id": "pub-3940256099942544",
+					"admob_appid": "ca-app-pub-3940256099942544~3347511713",
+                    "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+                    "admob_inters": "ca-app-pub-3940256099942544/1033173712",
+					
+					"appota_safety": false,
+					"appota_aktif": false,
+					"appota_pub_id": "",
+					"appota_banner": "/6499/example/banner",
+					"appota_rect": "/6499/example/banner",
+					"appota_inters": "/6499/example/interstitial",
+					
+					"fb_safety": false,
+					"fb_aktif": false,
+					"fb_pub_id": "",
+					"fb_banner": "626643081135361_626643564468646",
+					"fb_rect": "",
+					"fb_inters": "626643081135361_630633900736279",
+					
+					"startapp_safety": false,
+					"startapp_aktif": false,
+					"startapp_pub_id": "",
+					"startapp_id": "201808772",
+					"startapp_splash_aktif": false
+                }
+            ],
+			
+			"data_konten": [
+				{
+					"konten_url": ""
+				}
+			]
+        }
+		
+    ]
+}
+
