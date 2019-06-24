@@ -22,7 +22,7 @@
                     "admob_inters": "ca-app-pub-3940256099942544/1033173712",
 					
 					"appota_safety": true,
-					"appota_aktif": true,
+					"appota_aktif": false,
 					"appota_pub_id": "",
 					"appota_banner": "/6499/example/banner",
 					"appota_rect": "/6499/example/banner",
