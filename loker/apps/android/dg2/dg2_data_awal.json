@@ -22,11 +22,11 @@
                     "admob_inters": "ca-app-pub-3940256099942544/1033173712",
 					
 					"appota_safety": true,
-					"appota_aktif": false,
+					"appota_aktif": true,
 					"appota_pub_id": "",
-					"appota_banner": "/6499/example/banner",
-					"appota_rect": "/6499/example/banner",
-					"appota_inters": "/6499/example/interstitial",
+					"appota_banner": "/194427432/51010177/21816890879",
+					"appota_rect": "/194427432/51010177/21816890987",
+					"appota_inters": "/194427432/51010177/21816815397",
 					
 					"fb_safety": false,
 					"fb_aktif": false,
