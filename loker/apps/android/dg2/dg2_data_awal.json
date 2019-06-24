@@ -15,11 +15,11 @@
             "data_yotro": [
                 {
 					"admob_safety": true,
-					"admob_aktif": false,
-					"admob_pub_id": "pub-3940256099942544",
-					"admob_appid": "ca-app-pub-3940256099942544~3347511713",
-                    "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-                    "admob_inters": "ca-app-pub-3940256099942544/1033173712",
+					"admob_aktif": true,
+					"admob_pub_id": "pub-6966923492212298",
+					"admob_appid": "ca-app-pub-6966923492212298~2236630428",
+                    "admob_banner": "ca-app-pub-6966923492212298/7105813724",
+                    "admob_inters": "ca-app-pub-6966923492212298/6856787311",
 					
 					"appota_safety": true,
 					"appota_aktif": true,
