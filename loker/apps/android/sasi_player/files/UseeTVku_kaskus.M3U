@@ -1,0 +1,167 @@
+#HD Channel
+#EXTINF:-1 ,HD - HBO HD
+#rtp://@239.1.1.203:9192
+#EXTINF:-1 ,HD - BEIN 3 HD
+#rtp://@239.1.1.205:9204
+#EXTINF:-1 ,HD - Disney HD
+#rtp://@239.1.1.201:9180
+#EXTINF:-1 ,HD - Star Wold HD
+rtp://@239.1.1.209:9228
+#EXTINF:-1 ,HD - Nat Goe Wild HD
+rtp://@239.1.1.207:9216
+#EXTINF:-1 ,HD - Fox Family HD
+rtp://@239.1.1.237:9396
+#EXTINF:-1 ,HD - Fox Movie Premium HD
+rtp://@239.1.1.211:9240
+#EXTINF:-1 ,HD - HBO Hits HD
+rtp://@239.1.1.215:9264
+#EXTINF:-1 ,HD - RED HD
+rtp://@239.1.1.133:8772
+
+
+
+#LOKAL
+#EXTINF:-1 ,Lokal-100 TVRI
+rtp://@239.1.1.37:8196
+#EXTINF:-1 ,Lokal-101 METROTV
+rtp://@239.1.1.19:8088
+#EXTINF:-1 ,Lokal-102 CNN INDONESIA
+rtp://@239.1.1.241:9362
+#EXTINF:-1 ,Lokal-103 TVONE
+rtp://@239.1.1.31:8160
+#EXTINF:-1 ,Lokal-104 TRANSTV
+rtp://@239.1.1.27:8136
+#EXTINF:-1 ,Lokal-105 TRANS7
+rtp://@239.1.1.29:8148
+#EXTINF:-1 ,Lokal-106 SCTV
+rtp://@239.1.1.21:8100
+#EXTINF:-1 ,Lokal-107 INDOSIAR
+rtp://@239.1.1.17:8076
+#EXTINF:-1 ,Lokal-108 ANTV
+rtp://@239.1.1.15:8064
+#EXTINF:-1 ,Lokal-109 RCTI
+rtp://@239.1.1.23:8112
+#EXTINF:-1 ,Lokal-110 GLOBAL TV
+rtp://@239.1.1.13:8052
+#EXTINF:-1 ,Lokal-111 MNCTV
+rtp://@239.1.1.25:8124
+#EXTINF:-1 ,Lokal- Kompas TV
+rtp://@239.1.1.197:9156
+#EXTINF:-1 ,Lokal- NET TV
+rtp://@239.1.1.119:8688
+#EXTINF:-1 ,Lokal- Berita Satu
+rtp://@239.1.1.183:9072
+
+#KNOWLADGE
+#EXTINF:-1 ,KNOWLADGE-200 Khazanah
+rtp://@239.1.1.203:9356
+#EXTINF:-1 ,KNOWLADGE-201 National Geographic
+rtp://@239.1.1.169:8988
+#EXTINF:-1 ,KNOWLADGE-202 National Geographic Wild
+rtp://@239.1.1.35:8184
+#EXTINF:-1 ,KNOWLADGE-204 National Geographic HD
+rtp://@239.1.1.207:9216
+#EXTINF:-1 ,KNOWLADGE-205 History
+rtp://@239.1.1.57:8316
+#EXTINF:-1 ,KNOWLADGE-205 Nat Geo People
+rtp://@239.1.1.67:8376
+
+#LIFESTYLE
+#EXTINF:-1 ,LIFESTYLE-301 Eat and Go
+rtp://@239.1.1.229:9350
+#EXTINF:-1 ,LIFESTYLE-302 E!Entertaiment
+rtp://@239.1.1.145:8844
+#EXTINF:-1 ,LIFESTYLE-302 Fashion TV
+rtp://@239.1.1.79:8448
+#EXTINF:-1 ,LIFESTYLE-304 Fashion One
+rtp://@239.1.1.127:8736
+
+#MUSIC
+#EXTINF:-1 ,MUSIC-401 TMusic
+rtp://@239.1.1.163:8952
+#EXTINF:-1 ,MUSIC-402 MTV
+rtp://@239.1.1.5:8004
+#EXTINF:-1 ,MUSIC-403 C Music
+rtp://@239.1.1.77:8436
+#EXTINF:-1 ,MUSIC-404 Channel[V]
+rtp://@239.1.1.173:9012
+
+#MOVIE
+#EXTINF:-1 ,Movie-600 HBO HD
+rtp://@239.1.1.203:9192
+#EXTINF:-1 ,Movie-601 HBO
+rtp://@239.1.1.95:8544
+#EXTINF:-1 ,Movie-602 HBO Signature
+rtp://@239.1.1.93:8532
+#EXTINF:-1 ,Movie-603 CINEMAX
+rtp://@239.1.1.87:8496
+#EXTINF:-1 ,Movie-604 HBO Hits
+rtp://@239.1.1.91:8520
+#EXTINF:-1 ,Movie-605 HBO Family
+rtp://@239.1.1.89:8508
+#EXTINF:-1 ,Movie-607 FOX Movie Premium
+rtp://@239.1.1.11:8040
+#EXTINF:-1 ,Movie-608 FOX Family Movie
+rtp://@239.1.1.175:9024
+#EXTINF:-1 ,Movie-609 FOX Action Movie
+rtp://@239.1.1.125:8724
+#EXTINF:-1 ,Movie-611 Celestial Movie
+rtp://@239.1.1.97:8558
+#EXTINF:-1 ,Movie-612 Star Chinese Movie
+rtp://@239.1.1.131:8760
+#EXTINF:-1 ,Movie-613 Star Chinese Movie Legend
+rtp://@239.1.1.151:8880
+#EXTINF:-1 ,Movie-614 Z Bioskop (India)
+rtp://@239.1.1.129:8748
+#EXTINF:-1 ,Movie-615 Bioskop Indonesia
+rtp://@239.1.1.226:9332
+
+#SPORT
+#EXTINF:-1 ,SPORT-701 BEIN 1
+rtp://@239.1.1.217:9204
+#EXTINF:-1 ,SPORT-702 BEIN 2
+rtp://@239.1.1.221:9300
+#EXTINF:-1 ,SPORT-703 BEIN 3
+rtp://@239.1.1.223:9312
+#EXTINF:-1 ,SPORT-704 Fight Sport
+rtp://@239.1.1.177:9036
+#EXTINF:-1 ,SPORT-705 FOX Sport 1
+rtp://@239.1.1.103:8592
+#EXTINF:-1 ,SPORT-706 FOX Sport 2
+rtp://@239.1.1.101:8580
+#EXTINF:-1 ,SPORT-707 FOX Sport 3
+rtp://@239.1.1.53:8292
+
+#Relligious Channel 800
+#EXTINF:-1 ,Religious-814 Al Quran Al Kareem
+rtp://@239.1.1.185:9084
+
+#NEWS
+#EXTINF:-1 ,NEWS-801 CNN
+rtp://@239.1.1.105:8604
+#EXTINF:-1 ,NEWS-802 Bloomberg TV Asia
+rtp://@239.1.1.199:9168
+#EXTINF:-1 ,NEWS-803 CNBC Asia
+rtp://@239.1.1.155:8904
+#EXTINF:-1 ,NEWS-805 Al-jazeera
+rtp://@239.1.1.195:9144
+#EXTINF:-1 ,NEWS-811 CCTV 4
+rtp://@239.1.1.115:8664
+#EXTINF:-1 ,NEWS-812 CCTV 9 Documentary
+rtp://@239.1.1.121:8700
+
+#KIDS
+#EXTINF:-1 ,KIDS-901 Dunia Anak
+rtp://@239.1.1.7:8016
+#EXTINF:-1 ,KIDS-902 Disney Channel
+rtp://@239.1.1.45:8244
+#EXTINF:-1 ,KIDS-903 Da Vinci Learning
+rtp://@239.1.1.99:8568
+#EXTINF:-1 ,KIDS-904 Nickelodeon
+rtp://@239.1.1.41:8220
+#EXTINF:-1 ,KIDS-905 Carton Network
+rtp://@239.1.1.123:8712
+#EXTINF:-1 ,KIDS-906 Toonami
+rtp://@239.1.1.143:8832
+#EXTINF:-1 ,KIDS-907 Boomerang
+rtp://@239.1.1.73:8412
