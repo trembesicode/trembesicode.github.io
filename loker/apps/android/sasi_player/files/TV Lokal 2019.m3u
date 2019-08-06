@@ -4,7 +4,7 @@
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 #EXTINF:0,Akhyar TV
 http://stream.asianastream.com:1935/live/ngrp:akhyartv_all/playlist.m3u8
-#EXTINF:0,ANTV
+#EXTINF:0 tvg-logo=https://www.antvklik.com/images/logo/Antv_logo.png,ANTV
 http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0,Arek TV Surabaya
 http://stream1.ninmedia.tv/live/xmedia-arektv.stream/media_w1337460548_9014.m3u8
