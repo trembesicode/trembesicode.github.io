@@ -5,36 +5,33 @@
         {
 			"list_download": [
 				{
-					"file_nama": "",
-					"file_desk": "",
-					"file_url": "https://trembesi.github.io/loker/apps/android/sasi_player/files/TV%20Lokal%202019.m3u",
-					"file_icon": ""
-				},
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				{
-					"file_nama": "TV Lokal 2019 - Indonesia",
-					"file_desk": "playlist tv lokal indonesia",
-					"file_url": "https://trembesi.github.io/loker/apps/android/sasi_player/files/TV%20Lokal%202019.m3u",
+					"file_nama": "Indonesian local TV 2019",
+					"file_desk": "Indonesian local tv playlist 2019",
+					"file_url": "https://github.com/trembesi/trembesi.github.io/blob/master/loker/apps/android/sasi_player/files/Indonesian%20Local%20TV%202019.m3u",
 					"file_icon": ""
 				},
 				{
-					"file_nama": "UseeTV (RTP) by ITPoint",
-					"file_desk": "playlist UseeTV, collection by itpoint",
-					"file_url": "https://trembesi.github.io/loker/apps/android/sasi_player/files/UseeTVku_itpoin.m3u",
+					"file_nama": "Indonesian UseeTV by itpoint",
+					"file_desk": "Indonesian useeTV by ItPoint",
+					"file_url": "https://github.com/trembesi/trembesi.github.io/blob/master/loker/apps/android/sasi_player/files/Indonesian%20UseeTVku_itpoin.m3u",
 					"file_icon": ""
 				},
 				{
-					"file_nama": "UseeTV (RTP) by KasKus",
-					"file_desk": "playlist UseeTV, collection by kaskus",
-					"file_url": "https://trembesi.github.io/loker/apps/android/sasi_player/files/UseeTVku_kaskus.m3u",
+					"file_nama": "Indonesian useeTV by KasKus",
+					"file_desk": "indonesian useetv by kaskus",
+					"file_url": "https://github.com/trembesi/trembesi.github.io/blob/master/loker/apps/android/sasi_player/files/Indonesian%20UseeTVku_kaskus.m3u",
+					"file_icon": ""
+				},
+				{
+					"file_nama": "International TV",
+					"file_desk": "global World TV channel",
+					"file_url": "https://github.com/trembesi/trembesi.github.io/blob/master/loker/apps/android/sasi_player/files/International%20TV.m3u",
+					"file_icon": ""
+				},
+				{
+					"file_nama": "Malaysian Local TV",
+					"file_desk": "note: may need malaysia ip",
+					"file_url": "https://github.com/trembesi/trembesi.github.io/blob/master/loker/apps/android/sasi_player/files/Malaysia%20Local%20TV.m3u",
 					"file_icon": ""
 				}
 			]
