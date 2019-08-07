@@ -1,0 +1,808 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3zzqEti.png" group-title="* Fluxus.tv > Play On!",* Fluxus.tv
+https://fluxustv.blogspot.com@bit.ly/fluxusfish?.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DqFDjM8.png" group-title="+ Faith - Permanent Playlist",+ Faith
+https://fluxustv.blogspot.com@bit.ly/fluxusfish?.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="- Update: 07.30.2019",- Always Refresh!
+https://fluxustv.blogspot.com@bit.ly/fluxusfish?.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rutZ4SM.png" group-title="~ RELIGION",~ Hinduism
+https://archive.org/download/fluxustv/Fluxus_TV.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AonqPVR.png" group-title="HINDUISM (EN)",Swamiji TV (AT)
+http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w1606422831_b400000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iTXZJdP.png" group-title="~ RELIGION",~ Buddhism
+https://archive.org/download/fluxustv/Fluxus_TV.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pEGRHGh.png" group-title="BUDDHISM (ZH)",Beautiful Life TV (TW)
+http://54.64.23.79:1935/live/vod/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ax9igWx.png" group-title="~ RELIGION",~ Judaism
+https://archive.org/download/fluxustv/Fluxus_TV.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wKi97Pg.png" group-title="JUDAISM (HE)",Hidabroot TV (IL) (Opt-1)
+https://stream72.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wKi97Pg.png" group-title="JUDAISM (HE)",Hidabroot TV (IL) (Opt-2)
+https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pHJm3I0.png" group-title="JUDAISM (EN)",JBS (US)
+http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VEoLKzb.png" group-title="JUDAISM (EN)",Jewish Life TV
+http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dFMfGuC.png" group-title="JUDAISM (HE)",Kabbalah TV (IL)
+http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8dNlTLn.png" group-title="JUDAISM (HE)",Moussaieff Synagogue (IL)
+http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XjdacoK.png" group-title="~ RELIGION",~ Catholicism
+http://174.142.76.50:9002/channel9.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dwdnz3O.png" group-title="CATHOLICISM (EN)",Catholic Life (US)
+http://origin3-edge2.ord.yourstreamlive.com:1935/live/yourstreamlive/out_657_198vbyhi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2G8b2k8.png" group-title="CATHOLICISM (EN)",Catholic TV (US)
+http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wjCFvLR.png" group-title="CATHOLICISM (EN)",Divine Vision (US)
+http://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rxuem4o.png" group-title="CATHOLICISM (EN)",EWTN Africa (US)
+http://d1ow1zecottmck.cloudfront.net/p/AFINE_760x432_1200k.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rxuem4o.png" group-title="CATHOLICISM (EN)",EWTN Asia (US)
+http://d19y0p9magl0wf.cloudfront.net/p/PACE_760x432_1200k.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rxuem4o.png" group-title="CATHOLICISM (EN)",EWTN Canada (US)
+http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rxuem4o.png" group-title="CATHOLICISM (EN)",EWTN USA (US)
+http://d3je5q1nueb5wn.cloudfront.net/p/DOME_760x432_1200k.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rxuem4o.png" group-title="CATHOLICISM (EN)",EWTN UK/Ireland (US)
+https://d22hn4dja6wlxz.cloudfront.net/p/UKE_760x432_1200k.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1131290789/fnlLogo_400x400.png" group-title="CATHOLICISM (EN)",Faith & Life TV (US)
+http://na-all9.secdn.net/logos-channel/live/faithlifetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ktv.png" group-title="CATHOLICISM (DE)",K-TV (AT)
+http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lEnuR22.png" group-title="CATHOLICISM (EN)",KNXT Catholic TV (US)
+http://origin7-edge2.ord.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_2324_4sqkvkde/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Lgo4vdW.png" group-title="CATHOLICISM (EN)",Salt & Light TV (CA)
+http://livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nqMVgMB.png" group-title="CATHOLICISM (EN)",Trinity TV (TT)
+http://161.0.157.9/PLTV/88888888/224/3221226638/03.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8svF8UU.png" group-title="CATHOLICISM (FR)",KTO (FR)
+http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/7/78/Tele_Radio_Padre_Pio.png" group-title="CATHOLICISM (IT)" ,Padre Pio TV (IT)
+https://56972e8bd3345.streamlock.net/TRPP_live/smil:bcffcc98-ac2f-4b73-b0a5-ad1bfb96d845_all.smil/chunklist_w1418321773_b227000_slita.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/C5FuJmG.png" group-title="CATHOLICISM (IT)",TV 2000 (IT) (Opt-1)
+http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/C5FuJmG.png" group-title="CATHOLICISM (IT)",TV 2000 (IT) (Opt-2)
+http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Cristovisi%C3%B3n_Logo.png" group-title="CATHOLICISM (ES)",Cristovision (CO)
+http://live10.cdnmedia.tv/cristovisionlive/smil:live.smil/chunklist_b500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fGdHIGy.png" group-title="CATHOLICISM (ES)",ESNE TV (US)
+https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jrescatolicos.org/wp-content/uploads/2016/06/alogo.png" group-title="CATHOLICISM (ES)",JRES TV (US)
+http://teleredmcp.com:1935/jrestv/jrestv/chunklist_w1193494329.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zpMhsAJ.png" group-title="CATHOLICISM (ES)",La Voz de Maria (DO)
+https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w567330199.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://montemaria.org/web/web2/img/logo6.png" group-title="CATHOLICISM (ES)",Monte Maria (MX)
+http://162.212.176.51:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/foYpee5.png" group-title="CATHOLICISM (ES)",Pax TV (PE)
+http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IFaWQLx.png" group-title="CATHOLICISM (PT)",Santuario de Fatima (PT)
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rKwhbzJ.png" group-title="CATHOLICISM (PT)",TV Catolic (BR)
+http://stmv2.euroti.com.br:1935/tvcatolic/tvcatolic/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0mlQZ8F.png" group-title="CATHOLICISM (PT)",TV Louvar (BR)
+http://173.236.10.10:1935/renascer/renascer/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rxuem4o.png" group-title="CATHOLICISM (UK)",EWTN Ukraine (US)
+http://bogtvhdlive-f.akamaihd.net/main_1_400@79148?v=2.9.4&fp=WIN%2016,0,0,257&r=DIQLE&g=YMULUMYIOWWK
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ENvLdTj.png" group-title="CATHOLICISM (VI)",Cong Giao TV (VN)
+http://saigontvtv.saigon.ns01.us:1935/conggiao/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m2VqbuA.png" group-title="~ RELIGION",~ Christianity
+https://archive.org/download/fluxustv/Fluxus_TV.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/09SjzBB.png" group-title="CHRISTIANITY (EN)",ACNN (NG)
+https://streaming.viewsat.eu/viewsatstream14/viewsatstream14.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LvEnz4B.png" group-title="CHRISTIANITY (EN)",Amazing Discoveries TV (CA) (New!)
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.acc.tv/wp-content/uploads/2016/06/cropped-acctv_logo.png" group-title="CHRISTIANITY (EN)",Australian Christian Channel (AU)
+http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_14949_1.m3u8?source=othersites&attempt=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wBI2VZG.png" group-title="CHRISTIANITY (EN)",Better Life TV (US)
+http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wBI2VZG.png" group-title="CHRISTIANITY (EN)",Better Life TV - Health (US)
+http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wBI2VZG.png" group-title="CHRISTIANITY (EN)",Better Life TV - Nature (US)
+http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wwUtlBi.png" group-title="CHRISTIANITY (EN)",Bible Explorations (US)
+http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7iBb8Pc.png" group-title="CHRISTIANITY (EN)",Bride TV (NG)
+https://streaming.viewsat.eu/viewsatstream13/viewsatstream13.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VKYF66K.png" group-title="CHRISTIANITY (EN)",CBN (US) (Opt-1)
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VKYF66K.png" group-title="CHRISTIANITY (EN)",CBN (US) (Opt-2)
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/index_2000_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hxCuc9c.png" group-title="CHRISTIANITY (EN)",Church Services (IE)
+https://5a60c6aba4898.streamlock.net/CSTV/206-554/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Bj37ZMY.png" group-title="CHRISTIANITY (EN)",CTN (US) (Opt-1)
+http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Bj37ZMY.png" group-title="CHRISTIANITY (EN)",CTN (US) (Opt-2)
+http://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/chunklist_w846886780_b1764000.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bj37ZMY.png" group-title="CHRISTIANITY (EN)",CTN (US) (Opt-3)
+http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bj37ZMY.png" group-title="CHRISTIANITY (EN)",CTN - WRXY-TV (US)
+http://ctn10.srfms.com:1935/ctn10/livestream/chunklist.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bj37ZMY.png" group-title="CHRISTIANITY (EN)",CTN - WVLR (US)
+http://wvlrdt481.srfms.com:2233/live/livestream/chunklist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cV8FKR9.png" group-title="CHRISTIANITY (EN)",Cornerstone TV (US)
+http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/chunklist_w1852678767_b2328000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-PPMLx9wmYko/Wp9M-iZLXUI/AAAAAAAAcro/TbCXWTt3yEwkl-oQzLvyGVChRXdVzrlWACLcBGAs/s320/Daystar.png" group-title="CHRISTIANITY (EN)",Daystar (US)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/621275/1539097700001/master_240p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FVWqYQG.png" group-title="CHRISTIANITY (EN)",Dove Channel (US)
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DEW8r7X.png" group-title="CHRISTIANITY (EN)",Dove TV (NG)
+https://streaming.viewsat.eu/viewsatstream03/viewsatstream03.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.myfaithusa.com/wp-content/uploads/2017/06/faith-usa-white.png" group-title="CHRISTIANITY (EN)",Faith USA (US)
+http://hls-live-media.cdn01.net/default/stream_14889.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2TKL6BX.png" group-title="CHRISTIANITY (EN)",Firstlight TV (NZ)
+http://streamer1.streamhost.org/salive/GMIFLNL/chunklist_w418539476.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Lqpy4Dz.png" group-title="CHRISTIANITY (EN)",God's Learning Channel (US)
+http://fss27.streamhoster.com/lv_glc/_definst_/broadcast3/chuck.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/LfOUU3Q.png" group-title="CHRISTIANITY (EN)",Good Life 45 (US)
+http://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJyiN3A.png" group-title="CHRISTIANITY (EN)",Gospel Channel (US)
+https://omega-gospel-live.secure.footprint.net/hls-live/omega-gospel/_definst_/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7vQrPvk.png" group-title="CHRISTIANITY (EN)",Gospel Truth TV (US)
+https://bstna.tulix.tv/live/bs_2m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/exdDHml.png" group-title="CHRISTIANITY (EN)",Hope Channel (US)
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CQnD7yU.png" group-title="CHRISTIANITY (EN)",Inspiration TV (US)
+http://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WZapYCk.png" group-title="CHRISTIANITY (EN)",ISN (US)
+http://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xu12lWj.png" group-title="CHRISTIANITY (EN)",KICC TV (GB) (New!)
+https://streaming.viewsat.eu/viewsatstream20/viewsatstream20.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MV8yV3l.png" group-title="CHRISTIANITY (EN)",Liberation TV (NG)
+https://streaming.viewsat.eu/viewsatstream11/viewsatstream11.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rjOQ02T.png" group-title="CHRISTIANITY (EN)",Lifevision TV (US)
+http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eULzPFZ.png" group-title="CHRISTIANITY (EN)",LoveWorld TV (GB) (New!)
+https://5bf50bd98c900.streamlock.net:449/live/lwtvuk2.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YnOZtNm.png" group-title="CHRISTIANITY (EN)",LoveWorld USA (US)
+https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/atYybSG.png" group-title="CHRISTIANITY (EN)",Mercy & Truth Ministries (JM) (Opt-1)
+http://media.btbn.tv/mtmtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/atYybSG.png" group-title="CHRISTIANITY (EN)",Mercy & Truth Ministries (JM) (Opt-2)
+http://161.0.157.38/PLTV/88888888/224/3221226847/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://miraclechannel.ca/wp-content/uploads/2016/08/MC_Logo_Homepage_V2@3x.png" group-title="CHRISTIANITY (EN)",Miracle Channel (CA)
+https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1qJkLDZ.png" group-title="CHRISTIANITY (EN)",Mission TV (US) (New!)
+http://stream.missiontv.com:1935/live/missiontv_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://myersinfosys.com/wp-content/uploads/2015/07/NRB_Logo.png" group-title="CHRISTIANITY (EN)",NRB Network (US)
+http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Fz9kFx.png" group-title="CHRISTIANITY (EN)",OPM TV (NG)
+https://streaming.viewsat.eu/viewsatstream06/viewsatstream063/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Dp4ewHs.png" group-title="CHRISTIANITY (EN)",Pastor Melissa Scott (US)
+http://wescottcchls-lh.akamaihd.net/i/wcc_wowlivehls@24607/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOVdYJZ.png" group-title="CHRISTIANITY (EN)",Revelation TV (US) (Opt-1)
+http://rtv.cdn.mangomolo.com/rtv/smil:switch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOVdYJZ.png" group-title="CHRISTIANITY (EN)",Revelation TV (US) (Opt-2)
+http://rtv.cdn.mangomolo.com/rtv/smil:rtv.stream.smil/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOVdYJZ.png" group-title="CHRISTIANITY (EN)",Revelation TV (US) (Opt-3)
+http://rtv.cdn.mangomolo.com/rtv/smil:rtvet.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PgPssL8.png" group-title="CHRISTIANITY (EN)",RPNG (GH)
+http://rtmp.ottdemo.rrsat.com/rrsatrtv1/rrsatrtvmulti.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AoBXCZg.png" group-title="CHRISTIANITY (EN)",Salt TV (UG)
+http://dcunilive38-lh.akamaihd.net/i/dclive_1@692676/index_150_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cr3dP6X.png" group-title="CHRISTIANITY (EN)",Salvation TV (NG)
+https://5b77aa17a748d.streamlock.net:1634/salvation/smil:live-hd-stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SmB6bLK.png" group-title="CHRISTIANITY (EN)",SAM TV (GH)
+https://streaming.viewsat.eu/viewsatstream22/viewsatstream22.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TV29g3L.png" group-title="CHRISTIANITY (EN)",TCT (US)
+http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/TCTHLS/TCTHLS_Live_1200.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tctkids.tv/images/TCTKids/TCTKidslogo.png" group-title="CHRISTIANITY (EN)",TCT Kids (US)
+http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CaoBAmd.png" group-title="CHRISTIANITY (EN)",The Word Network (US)
+http://thewordhls-i.akamaihd.net/hls/live/217932-b/thewordhls/iOS/stream1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zkRjdVx.png" group-title="CHRISTIANITY (EN)",Trinity Channel (US)
+http://rtmp1.abnsat.com/hls/trinity.m3u8
+
+#EXTINF:-1 tvg-logo="http://info.truegod.tv/wp-content/uploads/2016/10/trueGOD.tv_LOGO_glow_optimized.png" group-title="CHRISTIANITY (EN)",trueGODtv (US)
+http://cdn.media15.truegod.tv/ibn/smil:ibn.smil/chunklist_b1128000_sleng.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.unityfellowshipchurch.org.za/images/logo-footer.png" group-title="CHRISTIANITY (EN)",UBN (ZA)
+http://109.123.70.27:1935/8054/8054/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wTxwPFJ.png" group-title="CHRISTIANITY (EN)",Victory Television Network (US)
+http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7N79GyZ.png" group-title="CHRISTIANITY (EN)",Watchmen Broadcasting (US)
+http://fss28.streamhoster.com/lv_rod_tvf1/_definst_/smil:lv_rod_tvf1-wbpi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8HIftGx.png" group-title="CHRISTIANITY (EN)",WGGS-TV (US)
+https://d202lge9i6ts6.cloudfront.net/origin1ingest1/c7956aac88/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5nzTXQM.png" group-title="CHRISTIANITY (EN)",Yadah TV (ZW)
+https://streaming.viewsat.eu/viewsatstream18/viewsatstream18.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dqJX5p1.png" group-title="CHRISTIANITY (IS)",Omega (IS)
+http://sip-live.hds.adaptive.level3.net/hls-live/omega-omega/_definst_/live/stream1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q1JUGLd.png" group-title="CHRISTIANITY (DE)",Bibel TV (DE)
+https://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qskVMhF.png" group-title="CHRISTIANITY (DE)",Light Channel (DE)
+http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T6bEOQt.png" group-title="CHRISTIANITY (FR)",Chaine Nord-Africaine (DZ)
+http://str81.creacast.com/cna/live.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPJqdGy.png" group-title="CHRISTIANITY (FR)",Impact Tele (HT)
+https://impacttele.vedge.infomaniak.com/livecast/impacttele/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f9CFiRf.png" group-title="CHRISTIANITY (FR)",Tele Soleil (HT)
+http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_soleil/as/live/hln_soleil_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SjbqyAx.png" group-title="CHRISTIANITY (IT)",Parole di Vita (IT)
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@624452/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RPXusvS.png" group-title="CHRISTIANITY (IT)",Sophia TV (DE)
+https://www.onairport.live/sophiatv-it-live/livestream_low/chunklist_w217998957.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4ydVVIA.png" group-title="CHRISTIANITY (ES)",3ABN Latino (US)
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t8A1vem.png" group-title="CHRISTIANITY (ES)",Aliento Vision (US)
+https://livestreamcdn.net:444/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7YB94Hf.png" group-title="CHRISTIANITY (ES)",Avivamiento (CO)
+https://s3.abntelevision.com/avivamiento/avivamiento/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wBI2VZG.png" group-title="CHRISTIANITY (ES)",Better Life TV - Español (US)
+http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84oUkUG.png" group-title="CHRISTIANITY (ES)",Bethel TV (PE)
+http://api.new.livestream.com/accounts/16199200/events/4590066/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VKYF66K.png" group-title="CHRISTIANITY (ES)",CBN Español (US)
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Mh7tSd1.png" group-title="CHRISTIANITY (ES)",CDM (PR)
+http://205.164.56.130:1935/marcos536/marcos536/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3wwLPh7.png" group-title="CHRISTIANITY (ES)",Cielo TV (DO)
+https://5c23f8c141255.streamlock.net/cielotv/cielotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BNtmf7o.png" group-title="CHRISTIANITY (ES)",Comunion TV (DO) (Opt-1)
+http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BNtmf7o.png" group-title="CHRISTIANITY (ES)",Comunion TV (DO) (Opt-2)
+http://50.30.37.36:1935/live/stream/chunklist_w1329394356.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tQ3v15G.png" group-title="CHRISTIANITY (ES)",Cristiana TV (ES)
+http:common01.todostreaming.es/live/malaga-livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YNZZksM.png" group-title="CHRISTIANITY (ES)",CTNi (US)
+http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h49EcLq.png" group-title="CHRISTIANITY (ES)",Elim TV (SV)
+http://live-15.viewer.dacast.com/i/dclive_1@397642/index_150_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="CHRISTIANITY (ES)",Esperanza TV (US)
+http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMtKE60.png" group-title="CHRISTIANITY (ES)",Genesis TV (MX)
+http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y61oxqH.png" group-title="CHRISTIANITY (ES)",JBN-TV (HN)
+http://138.117.4.70:8079/streams/d/Canal-39/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g8H0jDw.png" group-title="CHRISTIANITY (ES)",Life TV (HN)
+http://184.173.181.2:1935/8070/8070/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cnho.files.wordpress.com/2017/11/logos.png" group-title="CHRISTIANITY (ES)",Logos TV (ES)
+http://streamer1.streamhost.org:1935/salive/GMIalfah/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U7SuTIe.png" group-title="CHRISTIANITY (ES)",Ministerio TV (US)
+http://ph1.ministeriotv.com:1936/29/stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbUWGKF.png" group-title="CHRISTIANITY (ES)",Mision ELTV (DO)
+https://5790d294af2dc.streamlock.net:443/8286/8286/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V7E2dof.png" group-title="CHRISTIANITY (ES)",Mision Vida (UY)
+http://205.164.56.130:1935/jorge854/jorge854/chunklist_w1732070931.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gg3zw3A.png" group-title="CHRISTIANITY (ES)",MVC (HN)
+http://control.worldkast.com:1935/8306/smil:8306.smil/chunklist_w1958336667_b1500000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="CHRISTIANITY (ES)",Nuevo Tiempo (CL)
+http://stream.novotempo.com:1935/tv/tvnuevotiempo.stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GSD5epJ.png" group-title="CHRISTIANITY (ES)",Ondas de Amor (US)
+http://st2.worldkast.com/8008/8008/chunklist_w2031714912.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qskVMhF.png" group-title="CHRISTIANITY (ES)",Red ADVenir (BO)
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XEBit0q.png" group-title="CHRISTIANITY (ES)",Reforma TV (VE)
+https://livestreamcdn.net:444/ReformaTV/ReformaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kXDRUOG.png" group-title="CHRISTIANITY (ES)",Rhema Vision (GT)
+http://va1.ministeriotv.com:1936/64/stream/chunklist_w738075461.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hDOC6nx.png" group-title="CHRISTIANITY (ES)",SBN (US)
+http://sonlife5-i.akamaihd.net/hls/live/584631/ch5/ch53/ch53.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RPXusvS.png" group-title="CHRISTIANITY (ES)",Sophia TV (DE)
+https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0w1W0vE.png" group-title="CHRISTIANITY (ES)",TBN España (ES)
+http://wowzaprod161-i.akamaihd.net/hls/live/598486/e049734e/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7v46dB1.png" group-title="CHRISTIANITY (ES)",TeleBendicion (DO)
+http://ss8.domint.net:2124/tbt_str/telebendicion/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qIf2Ipu.png" group-title="CHRISTIANITY (ES)",TV CRET (SV)
+http://radiocret.net:1935/live/tvcret.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmana1.com/img/logo_tv_mana_1.png" group-title="CHRISTIANITY (ES)",TV Mana (AR)
+http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJgbASp.png" group-title="CHRISTIANITY (ES)",Uncion 24 (US)
+http://68.235.37.11:1935/uncion24/Uncion24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.wixstatic.com/media/c38be3_0cf530338264f47420d5237f029b2d6d.png_512" group-title="CHRISTIANITY (ES)",Vision Celestial (US)
+http://streaming.omeganet.org:1935/vc/envivo/chunklist_w1068747420.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vkDryWT.png" group-title="CHRISTIANITY (ES)",Viva Cristo TV (US)
+http://ss6.domint.net:1946/vct_str/vctv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/f/f2/Logo_rede_aparecida_comunicacao.png" group-title="CHRISTIANITY (PT)",Aparecida (BR)
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zX5c4CG.png" group-title="CHRISTIANITY (PT)",Boa Vontade TV (BR)
+http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OnGvQsC.png" group-title="CHRISTIANITY (PT)",Cançao Nova (BR)
+https://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="CHRISTIANITY (PT)",Novo Tempo (BR) (Opt-1)
+http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="CHRISTIANITY (PT)",Novo Tempo (BR) (Opt-2)
+http://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b2128000_slpor.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZlmugDW.png" group-title="CHRISTIANITY (PT)",Rede Gospel (BR)
+http://media01.s12.com.br:1935/live/redegospel/Rede_Gospel.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R3zACCF.png" group-title="CHRISTIANITY (PT)",Rede Seculo 21 (BR)
+http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RRde9uo.png" group-title="CHRISTIANITY (PT)",Rede Super (BR)
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="CHRISTIANITY (PT)",Sobrenatural TV (PT)
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/59e8xQb.png" group-title="CHRISTIANITY (PT)",TV Boa Esperança (BR)
+http://stmv2.srvstm.com/16692/16692/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oNJ71ZS.png" group-title="CHRISTIANITY (PT)",TV Evangelizar (BR)
+rtmp://tvevangelizar01.crossdigital.com.br/evangelizar/tv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/z5HMLv9.png" group-title="CHRISTIANITY (PT)",TV Gidoes (BR)
+http://streaming02.zas.media:1935/gideoes/_definst_/mp4:programacao_360p/chunklist_w93290010.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5UIy5tD.png" group-title="CHRISTIANITY (PT)",TV Mana (MZ)
+http://c3.manasat.com:1935/tvmz/tvmz3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/exdDHml.png" group-title="CHRISTIANITY (RO)",Speranta TV (RO)
+http://amsix40.streamkit.tv/edge/_definst_/sperantatv_500/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fW7aGa7.png" group-title="CHRISTIANITY (SK)",Life TV (SK)
+http://86.110.233.68:1935/lifetv/lifetv.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qskVMhF.png" group-title="CHRISTIANITY (BG)",Light Channel (BG)
+http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bog.tv/img/logo.png" group-title="CHRISTIANITY (RU)",BOG TV (RU)
+http://bogtvhdlive-f.akamaihd.net/i/bogtv_main@69601/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="CHRISTIANITY (UK)",Nadiya (UA) (Opt-1)
+http://stream.hope.ua/hopeua/live_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="CHRISTIANITY (UK)",Nadiya (UA) (Opt-2)
+http://bcliveunivsecure-lh.akamaihd.net/i/HopeChannelUkraine_1@432955/index_700_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://spbtvonline.ru/tafiimage/645.png" group-title="CHRISTIANITY (HY)",TBN (AM)
+http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/index_500_av-p.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kl0MBGe.png" group-title="CHRISTIANITY (ML)",Harvest TV (US)
+http://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P3x8s75.png" group-title="CHRISTIANITY (TR)",SAT-7 Turk (TR) (New!)
+http://unirtmp.tulix.tv:1935/sat7turk/satturklive-web.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name"" tvg-logo="https://i.imgur.com/7bmJ4sK.png" group-title="CHRISTIANITY (AR)",Kingdom Sat (FR)
+http://digital.ios.internapcdn.net/digital/live_1/kingdomtvlive/kingdomtvlive.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NM0QWA0.png" group-title="CHRISTIANITY (AR)",SAT7kids (JO)
+http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uLvGx2Q.png" group-title="CHRISTIANITY (UZ)",Be the Light TV (NL) (New!)
+https://cdn.live247stream.com/btl/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tbTUzko.png" group-title="CHRISTIANITY (KO)",CBS (KR) (Opt-1)
+http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tbTUzko.png" group-title="CHRISTIANITY (KO)",CBS (KR) (Opt-2)
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tbTUzko.png" group-title="CHRISTIANITY (KO)",CBS (KR) (Opt-3)
+rtmp://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tbTUzko.png" group-title="CHRISTIANITY (KO)",CBS (KR) (Opt-4)
+rtmp://cbs-live.gscdn.com/cbs-live/cbs-live.stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 1 (TW)
+http://live.streamingfast.net/osmflivech1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 2 (TW)
+http://live.streamingfast.net/osmflivech2.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 3 (TW)
+http://live.streamingfast.net/osmflivech3.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 5 (TW)
+http://live.streamingfast.net/osmflivech5.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 12 (TW)
+http://live.streamingfast.net/osmflivech12.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 13 (TW)
+http://live.streamingfast.net/osmflivech13.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 14 (TW)
+http://live.streamingfast.net/osmflivech14.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 15 (TW)
+http://live.streamingfast.net/osmflivech15.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 16 (TW)
+http://live.streamingfast.net/osmflivech16.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 17 (TW)
+http://live.streamingfast.net/osmflivech17.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 18 (TW)
+http://live.streamingfast.net/osmflivech18.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 19 (TW)
+http://live.streamingfast.net/osmflivech19.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 20 (TW)
+http://live.streamingfast.net/osmflivech20.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 21 (TW)
+http://live.streamingfast.net/osmflivech21.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 22 (TW)
+http://live.streamingfast.net/osmflivech22.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 23 (TW)
+http://live.streamingfast.net/osmflivech23.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 24 (TW)
+http://live.streamingfast.net/osmflivech24.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 25 (TW)
+http://live.streamingfast.net/osmflivech25.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 26 (TW)
+http://live.streamingfast.net/osmflivech26.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 27 (TW)
+http://live.streamingfast.net/osmflivech27.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 28 (TW)
+http://live.streamingfast.net/osmflivech28.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 28 (TW)
+http://live.streamingfast.net/osmflivech29.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 30 (TW)
+http://live.streamingfast.net/osmflivech30.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 31 (TW)
+http://live.streamingfast.net/osmflivech31.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 32 (TW)
+http://live.streamingfast.net/osmflivech32.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 33 (TW)
+http://live.streamingfast.net/osmflivech33.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 34 (TW)
+http://live.streamingfast.net/osmflivech34.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 35 (TW)
+http://live.streamingfast.net/osmflivech35.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 36 (TW)
+http://live.streamingfast.net/osmflivech36.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 37 (TW)
+http://live.streamingfast.net/osmflivech37.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 38 (TW)
+http://live.streamingfast.net/osmflivech38.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 39 (TW)
+http://live.streamingfast.net/osmflivech39.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 40 (TW)
+http://live.streamingfast.net/osmflivech40.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 41 (TW)
+http://live.streamingfast.net/osmflivech41.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 42 (TW)
+http://live.streamingfast.net/osmflivech42.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 43 (TW)
+http://live.streamingfast.net/osmflivech43.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 44 (TW)
+http://live.streamingfast.net/osmflivech44.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 45 (TW)
+http://live.streamingfast.net/osmflivech45.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 46 (TW)
+http://live.streamingfast.net/osmflivech46.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 47 (TW)
+http://live.streamingfast.net/osmflivech47.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 48 (TW)
+http://live.streamingfast.net/osmflivech48.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 49 (TW)
+http://live.streamingfast.net/osmflivech49.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLg7gs1.png" group-title="CHRISTIANITY (ZH)",Good TV 50 (TW)
+http://live.streamingfast.net/osmflivech50.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/exdDHml.png" group-title="CHRISTIANITY (ZH)",Hope Channel (CN)
+http://bcliveuniv-lh.akamaihd.net:80/i/Live_1@384161/index_500_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f399Xnm.png" group-title="~ RELIGION",~ Coptic
+https://archive.org/download/fluxustv/Fluxus_TV.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QpRbpYe.png" group-title="COPTIC (AR)",Aghapy TV (EG)
+http://46.105.112.176:1935/aghapy.tv/aghapy.smil/chunklist_w1857611052_b1400000_slar_t64SEQ=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J1w8bAW.png" group-title="COPTIC (EN)",Christian Youth Channel (US)
+http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w884806316.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PJMnKYW.png" group-title="COPTIC (AR)",CTV (EG)
+http://media6.smc-host.com:1935/ctvchannel.tv/ctv.smil/chunklist_w295970915_b1500000_slar_t64SEQ=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5hw3okB.png" group-title="~ RELIGION",~ Orthodoxy
+https://archive.org/download/fluxustv/Fluxus_TV.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/089z3BP.png" group-title="ORTHODOXY (SR)",Hram TV (RS)
+http://178.253.194.75:1935/live/hram.stream/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xXmR7xy.png" group-title="~ RELIGION",~ Islam
+https://archive.org/download/fluxustv/Fluxus_TV.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOYT9SN.png" group-title="ISLAM (AR)",Makkah Live (SA)
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R3E58ql.png" group-title="ISLAM (AR)",Medina Live (SA)
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vn9jvdV.png" group-title="ISLAM (AR)",Africa TV1 (SD)
+http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vn9jvdV.png" group-title="ISLAM (SW)",Africa TV2 (SD)
+http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vn9jvdV.png" group-title="ISLAM (HA)",Africa TV3 (SD)
+http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOohRIT.png" group-title="ISLAM (ID)",Ahsan TV (ID)
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WI5hSK1.png" group-title="ISLAM (AR)",Al Tanasuh TV (LY) (Opt-1)
+http://m.live.net.sa:1935/m/ngrp:tanasuhtv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WI5hSK1.png" group-title="ISLAM (AR)",Al Tanasuh TV (LY) (Opt-2)
+http://m.live.net.sa:1935/m/tanasuhtv/chunklist_w2048734625.m3u8?v=2545014476
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hbC1X9B.png" group-title="ISLAM (AR)",Alfath TV (EG)
+https://svs.itworkscdn.net/alfatehlive/fatehtv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tolJnMX.png" group-title="ISLAM (KU)",Amozhgary TV (KD)
+http://e7wfgmi6.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/AmozhgaryLiveTv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/08qNBH1.png" group-title="ISLAM (ID)",Ashiil TV (ID)
+http://119.82.232.89:1935/ashiiltv/live2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fGoL27J.png" group-title="ISLAM (AR)",Ayaat TV (SA)
+http://m.live.net.sa:1935/live/ayat/chunklist_w1642024713.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KFWIXZx.png" group-title="ISLAM (EN)",British Muslim TV (GB)
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PJyf6oq.png" group-title="ISLAM (ID)",DMI Channel (ID)
+http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IHEeKRz.png" group-title="ISLAM (EN)",GuideUS TV (US)
+http://stream.streamislam.com:8080/streamer/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xS7SS6T.png" group-title="ISLAM (AR)",Huda TV (EG)
+http://41.33.67.146:1935/live/1mystream/chunklist_w301731716.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wf2BlTG.png" group-title="ISLAM (SW)",IBN TV (TZ) (Opt-1)
+http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wf2BlTG.png" group-title="ISLAM (SW)",IBN TV (TZ) (Opt-2)
+http://159.65.95.207/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bF2p2G9.png" group-title="ISLAM (ID)",InsanTV (ID)
+http://wz.insantv.net/group/ngrp:insantv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fIAaICa.png" group-title="ISLAM (AR)",Iqraa (SA)
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=iqraa_arabic
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/skjSMOO.png" group-title="ISLAM (EN)",Islam Channel (GB)
+http://59299831b66d0.streamlock.net/islam-live/islam.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PM8tGMN.png" group-title="ISLAM (AR)",KTV Ethraa (KW)
+https://svs.itworkscdn.net/ktvethraalive/kethraa.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YZ93rMW.png" group-title="ISLAM (TR)",Lalegul TV (TR) (Opt-1) (New!)
+http://lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YZ93rMW.png" group-title="ISLAM (TR)",Lalegul TV (TR) (Opt-2) (New!)
+http://lalegultv.netmedya.net/hls/lalegultv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xT3X6L9.png" group-title="ISLAM (EN)",MTA 1 (GB)
+https://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xT3X6L9.png" group-title="ISLAM (EN)",MTA 2 (GB)
+https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xT3X6L9.png" group-title="ISLAM (AR)",MTA 3 (GB)
+https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xT3X6L9.png" group-title="ISLAM (EN)",MTA Africa (GB)
+https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/469hshv.png" group-title="ISLAM (MS)",Nabawi TV (MY)
+http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Xq5l6us.png" group-title="ISLAM (AR)",Noor Dubai (AE)
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=noordubaitv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EJCbDAn.png" group-title="ISLAM (ID)",Nu Channel (ID)
+http://stream1.ninmedia.tv/nuchannel/udp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ibUfEGr.png" group-title="ISLAM (EN)",Peace TV (AE)
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DfGiQSf.png" group-title="ISLAM (ID)",Rodja TV (ID)
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qY2hNm6.png" group-title="ISLAM (ID)",Salam TV (ID)
+http://119.235.249.60:1935/salamtv/live/chunklist_w753979001.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gw8JvF4.png" group-title="ISLAM (ID)",Saling Sapa TV (ID)
+http://stream1.ninmedia.tv/salingsapa/rtmp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bCMA3x5.png" group-title="ISLAM (ID)",Surau TV (ID)
+http://119.235.249.60:1935/surautv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/S/semerkand-logo-0D9C64B470-seeklogo.com.png" group-title="ISLAM (TR)",Semerkand TV (TR) (Opt-1)
+http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/S/semerkand-logo-0D9C64B470-seeklogo.com.png" group-title="ISLAM (TR)",Semerkand TV (TR) (Opt-2)
+http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VwHUMHe.png"group-title="ISLAM (ID)",Tahfizh TV (ID)
+http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EdD9QGy.png" group-title="ISLAM (AR)",Tayba TV (SD)
+http://tayba.live.net.sa:1935/tayba/taybatv/chunklist_w1376954935.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Z2Io8n4.png" group-title="ISLAM (EN)",The Islamic Network (TT)
+http://162.244.81.145:2215/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AT6dntJ.png" group-title="ISLAM (ID)",TV Mu (ID)
+rtmp://118.97.183.222/discover/muhammadiyahtv
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVYCfw5.png" group-title="ISLAM (ID)",Wesal TV (ID)
+http://119.235.249.60:1935/wesaltv/live/playlist.m3u8
