@@ -22,13 +22,6 @@
 					"file_url": "https://github.com/trembesi/trembesi.github.io/blob/master/loker/apps/android/sasi_player/files/German%20IPTV%20Cinema.m3u",
 					"file_icon": ""
 				},
-		
-			
-			
-			
-			
-			
-			
 				{
 					"file_nama": "Indonesian local TV 2019",
 					"file_desk": "Indonesian local tv playlist 2019",
@@ -65,10 +58,6 @@
 					"file_url": "https://github.com/trembesi/trembesi.github.io/blob/master/loker/apps/android/sasi_player/files/Japanese%20IPTV%20Cinema.m3u",
 					"file_icon": ""
 				},
-				
-				
-				
-				
 				{
 					"file_nama": "Malaysian Local TV",
 					"file_desk": "note: may need malaysia ip",
@@ -105,32 +94,12 @@
 					"file_url": "https://github.com/trembesi/trembesi.github.io/blob/master/loker/apps/android/sasi_player/files/Worldwide%20Faith%20Channels.m3u",
 					"file_icon": ""
 				},
-				/*{
-					"file_nama": "Worldwide Lust Channel",
-					"file_desk": "global Lust channel",
-					"file_url": "https://github.com/trembesi/trembesi.github.io/blob/master/loker/apps/android/sasi_player/files/Worldwide%20Lust%20Channels.m3u",
-					"file_icon": ""
-				},*/
 				{
 					"file_nama": "Worldwide Radio Channel",
 					"file_desk": "global Radio Channel",
 					"file_url": "https://github.com/trembesi/trembesi.github.io/blob/master/loker/apps/android/sasi_player/files/Worldwide%20Radio%20Channels.m3u",
 					"file_icon": ""
 				}
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
 				
 			]
         }
