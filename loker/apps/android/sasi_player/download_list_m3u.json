@@ -5,6 +5,31 @@
         {
 			"list_download": [
 				{
+					"file_nama": "Arabic IPTV Cinema",
+					"file_desk": "Arabic IPTV",
+					"file_url": "https://github.com/trembesi/trembesi.github.io/blob/master/loker/apps/android/sasi_player/files/Arabic%20IPTV%20Cinema.m3u",
+					"file_icon": ""
+				},
+				{
+					"file_nama": "French IPTV Cinema",
+					"file_desk": "French IPTV",
+					"file_url": "https://github.com/trembesi/trembesi.github.io/blob/master/loker/apps/android/sasi_player/files/French%20IPTV%20Cinema.m3u",
+					"file_icon": ""
+				},
+				{
+					"file_nama": "German IPTV Cinema",
+					"file_desk": "German IPTV",
+					"file_url": "https://github.com/trembesi/trembesi.github.io/blob/master/loker/apps/android/sasi_player/files/German%20IPTV%20Cinema.m3u",
+					"file_icon": ""
+				},
+		
+			
+			
+			
+			
+			
+			
+				{
 					"file_nama": "Indonesian local TV 2019",
 					"file_desk": "Indonesian local tv playlist 2019",
 					"file_url": "https://github.com/trembesi/trembesi.github.io/blob/master/loker/apps/android/sasi_player/files/Indonesian%20Local%20TV%202019.m3u",
@@ -29,11 +54,84 @@
 					"file_icon": ""
 				},
 				{
+					"file_nama": "Italian IPTV Cinema",
+					"file_desk": "Italian Cinema",
+					"file_url": "https://github.com/trembesi/trembesi.github.io/blob/master/loker/apps/android/sasi_player/files/Italian%20IPTV%20Cinema.m3u",
+					"file_icon": ""
+				},
+				{
+					"file_nama": "Japanese IPTV Cinema",
+					"file_desk": "Japanese Cinema",
+					"file_url": "https://github.com/trembesi/trembesi.github.io/blob/master/loker/apps/android/sasi_player/files/Japanese%20IPTV%20Cinema.m3u",
+					"file_icon": ""
+				},
+				
+				
+				
+				
+				{
 					"file_nama": "Malaysian Local TV",
 					"file_desk": "note: may need malaysia ip",
 					"file_url": "https://github.com/trembesi/trembesi.github.io/blob/master/loker/apps/android/sasi_player/files/Malaysia%20Local%20TV.m3u",
 					"file_icon": ""
+				},
+				{
+					"file_nama": "Portuguese IPTV Cinema",
+					"file_desk": "Portuguese Cinema",
+					"file_url": "https://github.com/trembesi/trembesi.github.io/blob/master/loker/apps/android/sasi_player/files/Portuguese%20IPTV%20Cinema.m3u",
+					"file_icon": ""
+				},
+				{
+					"file_nama": "Spanish IPTV Cinema",
+					"file_desk": "Spanish Cinema",
+					"file_url": "https://github.com/trembesi/trembesi.github.io/blob/master/loker/apps/android/sasi_player/files/Spanish%20IPTV%20Cinema.m3u",
+					"file_icon": ""
+				},
+				{
+					"file_nama": "Worlwide CCTV Channel",
+					"file_desk": "global CCTV channel",
+					"file_url": "https://github.com/trembesi/trembesi.github.io/blob/master/loker/apps/android/sasi_player/files/Worldwide%20CCTV%20Channels.m3u",
+					"file_icon": ""
+				},
+				{
+					"file_nama": "Worldwide Cinema Channel",
+					"file_desk": "global Cinema Channel",
+					"file_url": "https://github.com/trembesi/trembesi.github.io/blob/master/loker/apps/android/sasi_player/files/Worldwide%20Cinema%20Channels.m3u",
+					"file_icon": ""
+				},
+				{
+					"file_nama": "Worldwide Faith Channel",
+					"file_desk": "global Faith Channel",
+					"file_url": "https://github.com/trembesi/trembesi.github.io/blob/master/loker/apps/android/sasi_player/files/Worldwide%20Faith%20Channels.m3u",
+					"file_icon": ""
+				},
+				/*{
+					"file_nama": "Worldwide Lust Channel",
+					"file_desk": "global Lust channel",
+					"file_url": "https://github.com/trembesi/trembesi.github.io/blob/master/loker/apps/android/sasi_player/files/Worldwide%20Lust%20Channels.m3u",
+					"file_icon": ""
+				},*/
+				{
+					"file_nama": "Worldwide Radio Channel",
+					"file_desk": "global Radio Channel",
+					"file_url": "https://github.com/trembesi/trembesi.github.io/blob/master/loker/apps/android/sasi_player/files/Worldwide%20Radio%20Channels.m3u",
+					"file_icon": ""
 				}
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
 			]
         }
 		
