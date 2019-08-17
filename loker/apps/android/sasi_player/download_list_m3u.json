@@ -4,6 +4,41 @@
     "RESPONSE": [
         {
 			"list_download": [
+				{
+					"file_nama": "Indonesian local TV 2019",
+					"file_desk": "Indonesian local tv playlist 2019",
+					"file_url": "https://trembesi.github.io/loker/apps/android/sasi_player/files/Indonesian%20Local%20TV%202019.m3u",
+					"file_icon": "",
+					"file_versi": "1.0"
+				},
+				{
+					"file_nama": "Indonesian UseeTV by itpoint",
+					"file_desk": "Indonesian useeTV by ItPoint",
+					"file_url": "https://trembesi.github.io/loker/apps/android/sasi_player/files/Indonesian%20UseeTVku_itpoin.m3u",
+					"file_icon": "",
+					"file_versi": "1.0"
+				},
+				{
+					"file_nama": "Indonesian useeTV by KasKus",
+					"file_desk": "indonesian useetv by kaskus",
+					"file_url": "https://trembesi.github.io/loker/apps/android/sasi_player/files/Indonesian%20UseeTVku_kaskus.m3u",
+					"file_icon": "",
+					"file_versi": "1.0"
+				},
+				{
+					"file_nama": "International TV",
+					"file_desk": "global World TV channel",
+					"file_url": "https://trembesi.github.io/loker/apps/android/sasi_player/files/International%20TV.m3u",
+					"file_icon": "",
+					"file_versi": "1.0"
+				},
+				{
+					"file_nama": "Malaysian Local TV",
+					"file_desk": "note: may need malaysia ip",
+					"file_url": "https://trembesi.github.io/loker/apps/android/sasi_player/files/Malaysia%20Local%20TV.m3u",
+					"file_icon": "",
+					"file_versi": "1.0"
+				}
 				
 			]
         }
