@@ -1,0 +1,29 @@
+{
+    "ERROR": false,
+    "MESSAGE": "fetching sukses",
+    "RESPONSE": [
+        {
+			"playlist": [
+				{
+					"nama": "English International Kid Song",
+					"deskripsi": "International Kid Song Collections",
+					"id": "",
+					"icon": "",
+					"versi": "1.0",
+					"catatan": ""
+				},
+				{
+					"nama": "Indonesian Kid Song",
+					"deskripsi": "Indonesian Kid Song Collections",
+					"id": "",
+					"icon": "",
+					"versi": "1.0",
+					"catatan": ""
+				}
+				
+			]
+        }
+		
+    ]
+}
+
