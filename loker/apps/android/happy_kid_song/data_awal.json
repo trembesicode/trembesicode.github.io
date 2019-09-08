@@ -48,14 +48,18 @@
 			
 			"data_konten": [
 				{
-					"playlist": {
-						"nama": "English International Kid Song",
-						"deskripsi": "International Kid Song Collections",
-						"id": "",
-						"icon": "",
-						"versi": "1.0",
-						"catatan": ""
+					"yt_snippet": {
+						"yt_key_api": "AIzaSyDReEYjHZ_IpHBy9gsa5yF07oSkWSYkRsk",
+						"playlist": {
+							"nama": "English International Kid Song",
+							"deskripsi": "International Kid Song Collections",
+							"id": "PL4b7wmKV97S9143ZMOkktjtcGpUSsiiqJ",
+							"icon": "",
+							"versi": "1.0",
+							"catatan": ""
+						}
 					}
+					
 				}
 			]
         }
