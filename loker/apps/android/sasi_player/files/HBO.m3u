@@ -1,0 +1,139 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",BUMBLE BEE
+http://cdn0-a.production.vidio.static6.com/uploads/1567393/ets-bumb33-6048-b900.mp4.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",HBO
+http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+
+#EXTINF:-1,HBO HD [Dual audio]
+http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/11494
+
+#EXTINF:-1,HBO 2 HD [Dual audio]
+http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/11493
+
+#EXTINF:-1,HBO Plus HD [Dual audio]
+http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/11492
+
+#EXTINF:-1,HBO Family HD [Dual audio]
+http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/11486
+
+#EXTINF:-1,HBO Signature HD [Dual audio]
+http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/11491
+
+#EXTINF:-1,HBO Full HD
+http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/16202
+
+#EXTINF:-1,HBO Full HD *
+http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/17115
+
+#EXTINF:-1,HBO Full HD (Subtítulos)
+http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/18004
+
+#EXTINF:-1,HBO 2 Full HD
+http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/16203
+
+#EXTINF:-1,HBO 2 Full HD *
+http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/17117
+
+#EXTINF:-1,HBO Plus Full HD
+http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/16206
+
+#EXTINF:-1,HBO Plus Full HD *
+http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/17114
+
+#EXTINF:-1,HBO Family Full HD
+http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/16204
+
+#EXTINF:-1,HBO Family Full HD *
+http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/17116
+
+#EXTINF:-1,HBO Signature Full HD
+http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/16205
+
+#EXTINF:-1,HBO Signature Full HD *
+http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/17113
+
+#EXTINF:-1,HBO HD (Subtítulos)
+http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/18005
+
+#EXTINF:-1,HBO 2 HD
+http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/4732
+
+#EXTINF:-1,HBO Family HD
+http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/4731
+
+#EXTINF:-1,HBO Plus HD
+http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/4729
+
+#EXTINF:-1,HBO Signature HD
+http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/4728
+
+#EXTINF:-1,HBO
+http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/17020
+
+#EXTINF:-1,HBO 2
+http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/17019
+
+#EXTINF:-1,HBO Family
+http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/17018
+
+#EXTINF:-1,HBO Plus
+http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/17016
+
+#EXTINF:-1,HBO Signature
+http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/14293
+
+#EXTINF:-1,HBO [1080] (e)
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/116065
+#EXTINF:-1,HBO [720] (e)
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/116066
+#EXTINF:-1,HBO [SD] (e)
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/116067
+#EXTINF:-1,HBO [1080] (e) 1
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/131856
+#EXTINF:-1,HBO [720] (e) 1
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/131857
+#EXTINF:-1,HBO [SD] (e) 1
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/131858
+#EXTINF:-1,HBO [1080] [Dual Audio]
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75940
+#EXTINF:-1,HBO HD [Dual Audio]
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75900
+#EXTINF:-1,HBO 2 [1080] (e)
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/88045
+#EXTINF:-1,HBO 2 [720] (e)
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/88046
+#EXTINF:-1,HBO 2 [SD] (e)
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/88047
+#EXTINF:-1,HBO 2 [1080] [Dual Audio]
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75938
+#EXTINF:-1,HBO 2 HD [Dual Audio]
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75898
+#EXTINF:-1,HBO FAMILY [1080] (e)
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/88048
+#EXTINF:-1,HBO FAMILY [720] (e)
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/88049
+#EXTINF:-1,HBO FAMILY [SD] (e)
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/88050
+#EXTINF:-1,HBO Family [1080] [Dual Audio]
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75939
+#EXTINF:-1,HBO Family HD [Dual Audio]
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75899
+#EXTINF:-1,HBO SIGNATURE [1080] (e)
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/96379
+#EXTINF:-1,HBO SIGNATURE [720] (e)
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/96380
+#EXTINF:-1,HBO SIGNATURE [SD] (e)
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/96381
+#EXTINF:-1,HBO Signature [1080] [Dual Audio]
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75942
+#EXTINF:-1,HBO Signature [720] [Dual Audio]
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75902
+#EXTINF:-1,HBO Plus [1080] [Dual Audio]
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75941
+#EXTINF:-1,HBO Plus HD [Dual Audio]
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75901
