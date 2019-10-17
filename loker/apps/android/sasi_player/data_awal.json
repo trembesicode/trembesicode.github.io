@@ -12,7 +12,8 @@
 					
 					"safety_menu_setelan_aktif": false,
 					
-					"url_privpol_kawitan": "https://trembesi.github.io/loker/apps/android/sasi_player/privpol/privpol_kawitan.html"
+					"privpol_kawitan_versi": 1,
+					"privpol_kawitan_url": "https://trembesi.github.io/loker/apps/android/sasi_player/privpol/privpol_kawitan.html"
 					
 				}
 			],
