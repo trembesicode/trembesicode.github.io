@@ -10,7 +10,10 @@
 					"force_update_judul": "Update",
 					"force_update_deskripsi": "Sorry, this application is outdated, please update or replace the application with the new version.",
 					
-					"safety_menu_setelan_aktif": false
+					"safety_menu_setelan_aktif": false,
+					
+					"privpol_kawitan_versi": 1,
+					"privpol_kawitan_url": "https://trembesi.github.io/loker/apps/android/sasi_player/privpol/privpol_kawitan.html"
 					
 				}
 			],
@@ -18,14 +21,14 @@
             "data_yotro": [
                 {
 					"admob_safety": false,
-					"admob_aktif": true,
+					"admob_aktif": false,
 					"admob_pub_id": "pub-3940256099942544",
 					"admob_appid": "ca-app-pub-3940256099942544~3347511713",
                     "admob_banner": "ca-app-pub-3940256099942544/6300978111",
                     "admob_inters": "ca-app-pub-3940256099942544/1033173712",
 					
 					"appota_safety": false,
-					"appota_aktif": true,
+					"appota_aktif": false,
 					"appota_pub_id": "",
 					"appota_banner": "/6499/example/banner",
 					"appota_rect": "/6499/example/banner",
@@ -48,18 +51,7 @@
 			
 			"data_konten": [
 				{
-					"yt_snippet": {
-						"api_key": "AIzaSyDReEYjHZ_IpHBy9gsa5yF07oSkWSYkRsk",
-						"playlist": {
-							"nama": "English International Kid Song",
-							"deskripsi": "International Kid Song Collections",
-							"id": "PL4b7wmKV97S9143ZMOkktjtcGpUSsiiqJ",
-							"icon": "",
-							"versi": 1,
-							"catatan": ""
-						}
-					}
-					
+					"konten_url": ""
 				}
 			]
         }
