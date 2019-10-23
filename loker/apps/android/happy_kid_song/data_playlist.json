@@ -1,0 +1,31 @@
+{
+    "ERROR": false,
+    "MESSAGE": "fetching sukses",
+    "RESPONSE": [
+        {			
+			"data_playlist": [
+				{
+					"pl_judul": "International kid Song",
+					"pl_subjudul": "international kid song",
+					"pl_id": "",
+					"pl_gambar": ""
+				},
+				{
+					"pl_judul": "Indonesian Kid Song",
+					"pl_subjudul": "Indonesian kid song",
+					"pl_id": "",
+					"pl_gambar": ""
+				},
+				{
+					"pl_judul": "Russian Kid Song",
+					"pl_subjudul": "Russian kid song",
+					"pl_id": "",
+					"pl_gambar": ""
+				}
+				
+			]
+        }
+		
+    ]
+}
+
