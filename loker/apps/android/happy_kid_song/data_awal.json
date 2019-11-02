@@ -49,9 +49,9 @@
                 }
             ],
 			
-			"data_konten": [
+			"data_media": [
 				{
-					"intro_url": ""
+					"intro_video_url": ""
 				}
 			]
         }
