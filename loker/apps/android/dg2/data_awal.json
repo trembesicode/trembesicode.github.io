@@ -20,8 +20,8 @@
 			
             "data_yotro": [
                 {
-					"admob_safety": false,
-					"admob_aktif": false,
+					"admob_safety": true,
+					"admob_aktif": true,
 					"admob_pub_id": "pub-6966923492212298",
 					"admob_appid": "ca-app-pub-6966923492212298~3161811194",
                     "admob_banner": "ca-app-pub-6966923492212298/1129215233",
