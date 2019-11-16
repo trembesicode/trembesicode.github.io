@@ -28,14 +28,20 @@
 					"pl_subjudul": "Gus Azmi Syubbanul Muslimin",
 					"pl_id": "PL4b7wmKV97S_B8zUM1Mqjkj3kV0SSMOr5",
 					"pl_gambar": "https://trembesi.github.io/loker/apps/android/sholawat_mania/files/gambar_property/syuubanul_muslimin.jpg"
+				},
+				{
+					"pl_judul": "Junuudul Musthofa",
+					"pl_subjudul": "bersama Habib Ali Bin Hasan Baharun",
+					"pl_id": "PL4b7wmKV97S83EvvZmCUAMb-fOtycy6M4",
+					"pl_gambar": "https://trembesi.github.io/loker/apps/android/sholawat_mania/files/gambar_property/junuudul_musthofa.jpg"
 				}
 				
 			],
 			"data_konten": [
 				{
 					"api_key": "AIzaSyDReEYjHZ_IpHBy9gsa5yF07oSkWSYkRsk",
-					"max_result": 5,
-					"visible_threshold": 2
+					"max_result": 20,
+					"visible_threshold": 3
 				}
 			]
         }
