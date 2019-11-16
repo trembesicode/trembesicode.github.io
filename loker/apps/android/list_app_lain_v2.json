@@ -13,7 +13,7 @@
 			
 			"app_lain": [
 				{
-					"applain_id": "1",
+					"status": 1,
 					"applain_gambar": "https://trembesi.github.io/loker/apps/android/gambar/logodg_opt_h512.png",
 					"applain_judul": "Dzikrul Ghofilin 2",
 					"applain_subjudul": "Kitab Dzikrul Ghofilin",
