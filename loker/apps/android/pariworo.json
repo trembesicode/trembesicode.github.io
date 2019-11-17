@@ -1,28 +1,16 @@
 {
-    "ERROR" : false,
-    "MESSAGE" : "fetching sukses",
-    "RESPONSE" : [
-        {			
-		
-			"data_aktif" : [
-				{
-					"com.blogspot.happykidsong" : true,
-					"com.blogspot.sholawatmaniavideo" : true
-				}
-			],
-			
-			"data_pariworo" : [
-				{
-					"status" : 1,
-					"gambar" : "https://trembesi.github.io/loker/apps/android/gambar/logodg_opt_h512.png",
-					"judul" : "Dzikrul Ghofilin 2",
-					"subjudul" : "Kitab Dzikrul Ghofilin",
-					"url" : "https://play.google.com/store/apps/details?id=com.sasipitu.dzikrulghofilin2"
-				}
-			]
-			
-        }
-		
-    ]
+	"data_aktif" : {
+		"com.blogspot.sholawatmaniavideo" : true,
+		"com.blogspot.happykidsongvideo" : true
+	},
+	"data_pariworo" : [
+		{
+			"status" : 1,
+			"gambar" : "https://trembesi.github.io/loker/apps/android/gambar/logodg_opt_h512.png",
+			"judul" : "Dzikrul Ghofilin 2",
+			"subjudul" : "Kitab Dzikrul Ghofilin",
+			"url" : "https://play.google.com/store/apps/details?id=com.sasipitu.dzikrulghofilin2"
+		}
+	]
 }
 
