@@ -4,14 +4,14 @@
     "RESPONSE" : [
         {			
 		
-			"aktif" : [
+			"data_aktif" : [
 				{
 					"com.blogspot.happykidsong" : true,
 					"com.blogspot.sholawatmaniavideo" : true
 				}
 			],
 			
-			"pariworo" : [
+			"data_pariworo" : [
 				{
 					"status" : 1,
 					"gambar" : "https://trembesi.github.io/loker/apps/android/gambar/logodg_opt_h512.png",
