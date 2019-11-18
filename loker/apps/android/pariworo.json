@@ -1,7 +1,9 @@
 {
 	"data_aktif" : {
-		"com.blogspot.sholawatmaniavideo" : true,
-		"com.blogspot.happykidsongvideo" : false
+		"com.blogspot.sholawatmaniavideo" : false,
+		"com.blogspot.happykidsongvideo" : false,
+		"com.blogspot.sasiplayer" : false,
+		"com.sasipitu.dzikrulghofilin2" : false
 	},
 	"data_pariworo" : [
 		{
