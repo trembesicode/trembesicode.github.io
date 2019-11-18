@@ -28,7 +28,8 @@
 			"data_konten": [
 				{
 					"api_key": "AIzaSyDReEYjHZ_IpHBy9gsa5yF07oSkWSYkRsk",
-					"max_result": 50
+					"max_result": 20,
+					"visible_threshold": 3
 				}
 			]
         }
