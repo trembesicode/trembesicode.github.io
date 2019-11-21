@@ -14,8 +14,7 @@
 			
             "data_yotro": [
                 {
-					"tag_for_child_directed_treatment" : false,
-					"max_ad_content_rating" : null,
+					"audiens_campuran" : false;
 					
 					"admob_safety": false,
 					"admob_aktif": true,
