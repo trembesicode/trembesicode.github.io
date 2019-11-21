@@ -1,0 +1,63 @@
+{
+    "ERROR": false,
+    "MESSAGE": "fetching sukses",
+    "RESPONSE": [
+        {
+			"data_app": [
+				{
+					"force_update_app": true,
+					"force_update_url": "com.sasipitu.sholawat.mania.newyear2k20",
+					"force_update_judul": "Update",
+					"force_update_deskripsi": "Sorry, this application is outdated, please update or replace the application with the new version.",
+					
+					"safety_menu_setelan_aktif": false,
+					
+					"privpol_kawitan_versi": 1,
+					"privpol_kawitan_url": "https://trembesi.github.io/loker/apps/android/happy_kid_song/privpol/privpol_kawitan.html",
+					
+					"pariworo_url" : "https://trembesi.github.io/loker/apps/android/pariworo.json"
+					
+				}
+			],
+			
+            "data_yotro": [
+                {
+					"admob_safety": false,
+					"admob_aktif": true,
+					"admob_pub_id": "pub-6966923492212298",
+					"admob_appid": "ca-app-pub-6966923492212298~3764671768",
+                    "admob_banner": "ca-app-pub-6966923492212298/8638219339",
+                    "admob_inters": "ca-app-pub-6966923492212298/9946936733",
+					
+					"appota_safety": false,
+					"appota_aktif": false,
+					"appota_pub_id": "",
+					"appota_banner": "/6499/example/banner",
+					"appota_rect": "/6499/example/banner",
+					"appota_inters": "/6499/example/interstitial",
+					
+					"fb_safety": false,
+					"fb_aktif": false,
+					"fb_pub_id": "",
+					"fb_banner": "626643081135361_626643564468646",
+					"fb_rect": "",
+					"fb_inters": "626643081135361_630633900736279",
+					
+					"startapp_safety": false,
+					"startapp_aktif": false,
+					"startapp_pub_id": "",
+					"startapp_id": "201808772",
+					"startapp_splash_aktif": false
+                }
+            ],
+			
+			"data_media": [
+				{
+					"intro_video_url": "jik golek pidio"
+				}
+			]
+        }
+		
+    ]
+}
+

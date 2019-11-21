@@ -1,0 +1,57 @@
+{
+    "ERROR": false,
+    "MESSAGE": "fetching sukses",
+    "RESPONSE": [
+        {			
+		
+			"data_playlist": [
+				{
+					"pl_judul": "Habib Syech & Ahbabul Musthofa",
+					"pl_subjudul": "Koleksi Habib Syech dan Ahbabul Musthofa",
+					"pl_id": "PL4b7wmKV97S9C8RJOy8skLaxX24xMwMNv",
+					"pl_gambar": "https://trembesi.github.io/loker/apps/android/sholawat_mania/files/gambar_property/ahbabul_musthofa.jpg"
+				},
+				{
+					"pl_judul": "Ridwan Asyfi Ft. Fatiha Indonesia",
+					"pl_subjudul": "Ridwan Asyfi Ft. Fatiha Indonesia",
+					"pl_id": "PL4b7wmKV97S-WCqbAcbXUGCU-_hEJgyqd",
+					"pl_gambar": "https://trembesi.github.io/loker/apps/android/sholawat_mania/files/gambar_property/fatihah_indonesia.jpg"
+				},
+				{
+					"pl_judul": "Az Zahir - Pekalongan",
+					"pl_subjudul": "Az Zahir - Pekalongan",
+					"pl_id": "PL4b7wmKV97S9ay3H3ifseNNIbUJis2aTJ",
+					"pl_gambar": "https://trembesi.github.io/loker/apps/android/sholawat_mania/files/gambar_property/az_zahir_pekalongan.jpg"
+				},
+				{
+					"pl_judul": "Syubbanul Muslimin",
+					"pl_subjudul": "Gus Azmi Syubbanul Muslimin",
+					"pl_id": "PL4b7wmKV97S_B8zUM1Mqjkj3kV0SSMOr5",
+					"pl_gambar": "https://trembesi.github.io/loker/apps/android/sholawat_mania/files/gambar_property/syuubanul_muslimin.jpg"
+				},
+				{
+					"pl_judul": "Junuudul Musthofa",
+					"pl_subjudul": "bersama Habib Ali Bin Hasan Baharun",
+					"pl_id": "PL4b7wmKV97S83EvvZmCUAMb-fOtycy6M4",
+					"pl_gambar": "https://trembesi.github.io/loker/apps/android/sholawat_mania/files/gambar_property/junuudul_musthofa.jpg"
+				},
+				{
+					"pl_judul": "Gus Arafat & Janur",
+					"pl_subjudul": "janur sholawat nganjuk",
+					"pl_id": "PL4b7wmKV97S-n0NHImdBA7FhVfpUe1muk",
+					"pl_gambar": "https://trembesi.github.io/loker/apps/android/sholawat_mania/files/gambar_property/janur_nganjuk.jpg"
+				}
+				
+			],
+			"data_konten": [
+				{
+					"api_key": "AIzaSyDReEYjHZ_IpHBy9gsa5yF07oSkWSYkRsk",
+					"max_result": 10,
+					"visible_threshold": 3
+				}
+			]
+        }
+		
+    ]
+}
+
