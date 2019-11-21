@@ -14,7 +14,7 @@
 			
             "data_yotro": [
                 {
-					"audiens_campuran" : false;
+					"audiens_campuran" : false,
 					
 					"admob_safety": false,
 					"admob_aktif": true,
