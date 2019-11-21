@@ -14,6 +14,9 @@
 			
             "data_yotro": [
                 {
+					"tag_for_child_directed_treatment" : false,
+					"max_ad_content_rating" : null,
+					
 					"admob_safety": false,
 					"admob_aktif": true,
 					"admob_pub_id": "pub-3940256099942544",
