@@ -5,10 +5,18 @@
         {
 			"data_app": [
 				{
-					"update_app": false,
-					"update_url": "http://tembangwali.blogspot.com/",
-					"update_judul": "Update",
-					"update_deskripsi": "Sorry, this application is outdated, please update or replace the application with the new version."
+					"force_update_app": false,
+					"force_update_url": "https://play.google.com/store/apps/details?id=com.sasipitu.dzikrulghofilin2",
+					"force_update_judul": "Update",
+					"force_update_deskripsi": "Sorry, this application is outdated, please update or replace the application with the new version.",
+					
+					"safety_menu_setelan_aktif": false,
+					
+					"privpol_kawitan_versi": 1,
+					"privpol_kawitan_url": "https://trembesi.github.io/loker/apps/android/happy_kid_song/privpol/privpol_kawitan.html",
+					
+					"pariworo_url" : "https://trembesi.github.io/loker/apps/android/pariworo.json"
+					
 				}
 			],
 			
@@ -45,9 +53,9 @@
                 }
             ],
 			
-			"data_konten": [
+			"data_media": [
 				{
-					"konten_url": ""
+					"intro_video_url": "jik golek pidio"
 				}
 			]
         }
