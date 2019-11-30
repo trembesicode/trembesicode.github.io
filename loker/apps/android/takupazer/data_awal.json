@@ -24,6 +24,7 @@
                 {
 					"audiens_campuran" : false,
 				
+					"admob_delay_inters": 3,
 					"admob_safety": false,
 					"admob_aktif": true,
 					"admob_pub_id": "pub-3940256099942544",
@@ -31,13 +32,15 @@
                     "admob_banner": "ca-app-pub-3940256099942544/6300978111",
                     "admob_inters": "ca-app-pub-3940256099942544/1033173712",
 					
-					"appota_safety": false,
-					"appota_aktif": false,
-					"appota_pub_id": "",
-					"appota_banner": "/6499/example/banner",
-					"appota_rect": "/6499/example/banner",
-					"appota_inters": "/6499/example/interstitial",
+					"adx_delay_inters": 3,
+					"adx_safety": false,
+					"adx_aktif": false,
+					"adx_pub_id": "",
+					"adx_banner": "/6499/example/banner",
+					"adx_rect": "/6499/example/banner",
+					"adx_inters": "/6499/example/interstitial",
 					
+					"fb_delay_inters": 3,
 					"fb_safety": false,
 					"fb_aktif": false,
 					"fb_pub_id": "",
@@ -45,6 +48,7 @@
 					"fb_rect": "",
 					"fb_inters": "626643081135361_630633900736279",
 					
+					"startapp_delay_inters": 3,
 					"startapp_safety": false,
 					"startapp_aktif": false,
 					"startapp_pub_id": "",
