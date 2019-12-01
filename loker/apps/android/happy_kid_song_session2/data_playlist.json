@@ -1,0 +1,45 @@
+{
+    "ERROR": false,
+    "MESSAGE": "fetching sukses",
+    "RESPONSE": [
+        {			
+		
+			"data_playlist": [
+				{
+					"pl_judul": "VIRAL DANCE",
+					"pl_subjudul": "viral dance collections by takupaz dance crew",
+					"pl_id": "PL9WEs3YJvQbCisHT3u7k3-X6BopybIKrC",
+					"pl_gambar": "https://i.ytimg.com/vi/4tm-9udw9IQ/mqdefault.jpg"
+				},
+				{
+					"pl_judul": "CHOREOGRAPHY",
+					"pl_subjudul": "choreography by diego takupaz dance crew",
+					"pl_id": "PL9WEs3YJvQbDBQN6WlECBGmwPM1G40BQL",
+					"pl_gambar": "https://i.ytimg.com/vi/C6yFF6CbQPw/mqdefault.jpg"
+				},
+				{
+					"pl_judul": "Gaming Dance",
+					"pl_subjudul": "gaming dance by takupaz dance crew",
+					"pl_id": "PL9WEs3YJvQbAzSe8gzrlwVecKL8dE99BM",
+					"pl_gambar": "https://i.ytimg.com/vi/-qdjfQdqWcQ/mqdefault.jpg"
+				},
+				{
+					"pl_judul": "Children's Dance",
+					"pl_subjudul": "children's dance by takupaz dance crew",
+					"pl_id": "PL9WEs3YJvQbBh7Eo8TGC0CzIqBTrMwJwB",
+					"pl_gambar": "https://i.ytimg.com/vi/6_PT3iGnWiE/mqdefault.jpg"
+				}
+				
+			],
+			"data_konten": [
+				{
+					"api_key": "AIzaSyAl6FFMGW0iu-c26A5WGxHT-gLtw_wyleQ",
+					"max_result": 10,
+					"visible_threshold": 3
+				}
+			]
+        }
+		
+    ]
+}
+
