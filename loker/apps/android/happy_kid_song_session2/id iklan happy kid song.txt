@@ -1,23 +1,19 @@
-Happy Kid Song Video
-Gratis | Android
+Happy Kid Song Session 2
 
-pub-id:
-pub-6966923492212298
+app-id:
+ca-app-pub-6966923492212298~8276386550
 
-ID Aplikasi: 
-ca-app-pub-6966923492212298~3190371982
+song video banner
+ca-app-pub-6966923492212298/3285243313
 
-BANNER
-song video
-ca-app-pub-6966923492212298/5558009863
+song video inters
+ca-app-pub-6966923492212298/5344430446
 
-INTERS
-song video
-ca-app-pub-6966923492212298/6078606813
+song video reward
+ca-app-pub-6966923492212298/5949606119
 
-REWARD
-song video
-ca-app-pub-6966923492212298/6543788473
+song video native
+ca-app-pub-6966923492212298/7471900333
 
 ==================================
 STARTAPP
