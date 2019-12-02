@@ -234,6 +234,13 @@
 					"pl_gambar": "https://i.ytimg.com/vi/28yn_3BEraM/mqdefault.jpg"
 				}
 				
+			],
+			"data_konten": [
+				{
+					"api_key": "AIzaSyAl6FFMGW0iu-c26A5WGxHT-gLtw_wyleQ",
+					"max_result": 20,
+					"visible_threshold": 3
+				}
 			]
         }
 		
