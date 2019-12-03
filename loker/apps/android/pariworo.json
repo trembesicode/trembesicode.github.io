@@ -1,8 +1,8 @@
 {
 	"data_aktif" : {
 		"com.ambyar.ytplaylist" : true,
-		"com.sandfit.happykidsong.video.session2" : true,
-		"com.takupaz.dance.crew.sub.takupazer" : true,
+		"com.sandfit.happykidsong.video.session2" : false,
+		"com.takupaz.dance.crew.sub.takupazer" : false,
 		"com.sasipitu.sholawat.mania.newyear2k20" : false,
 		"com.blogspot.sholawatmaniavideo" : false,
 		"com.blogspot.happykidsongvideo" : false,
