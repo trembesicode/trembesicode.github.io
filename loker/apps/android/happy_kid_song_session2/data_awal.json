@@ -23,7 +23,7 @@
 			
             "data_yotro": [
                 {
-					"audiens_campuran" : false,
+					"audiens_campuran" : true,
 				
 					"admob_delay_millis_inters": 500,
 					"admob_safety": false,
