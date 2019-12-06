@@ -9,44 +9,12 @@
 					"item_gambar" : "",
 					"item_judul" : "",
 					"item_deskripsi" : "",
-					"subitem" : [
+					"konten" : [
 						{
-							"subitem_video" : "",
-							"subitem_judul" : "",
-							"subitem_konten" : "",
-							"subitem_efek_samping" : "",
-							"subitem_cara_pakai" : "",
-							"subitem_catatan" : ""
-						}
-					]
-				},
-				{
-					"item_gambar" : "",
-					"item_judul" : "",
-					"item_deskripsi" : "",
-					"subitem" : [
-						{
-							"subitem_video" : "",
-							"subitem_judul" : "",
-							"subitem_konten" : "",
-							"subitem_efek_samping" : "",
-							"subitem_cara_pakai" : "",
-							"subitem_catatan" : ""
-						}
-					]
-				},
-				{
-					"item_gambar" : "",
-					"item_judul" : "",
-					"item_deskripsi" : "",
-					"subitem" : [
-						{
-							"subitem_video" : "",
-							"subitem_judul" : "",
-							"subitem_konten" : "",
-							"subitem_efek_samping" : "",
-							"subitem_cara_pakai" : "",
-							"subitem_catatan" : ""
+							"konten_judul" : "",
+							"konten_video" : "",
+							"konten_deskripsi" : "",
+							"konten_catatan" : ""
 						}
 					]
 				}
