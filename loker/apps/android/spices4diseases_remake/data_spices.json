@@ -9,236 +9,47 @@
 					"item_gambar" : "",
 					"item_judul" : "",
 					"item_deskripsi" : "",
-					"item_konten" : [
+					"subitem" : [
 						{
 							"subitem_video" : "",
-							"subitem_subitem_konten" : ""
+							"subitem_judul" : "",
+							"subitem_konten" : "",
+							"subitem_efek_samping" : "",
+							"subitem_cara_pakai" : "",
+							"subitem_catatan" : ""
 						}
 					]
 				},
 				{
-					"pl_judul": "Mother Goose Club - New Videos!",
-					"pl_subjudul": "Mother Goose Club",
-					"pl_id": "PLBF51BAF461F15EDB",
-					"pl_gambar": "https://i.ytimg.com/vi/FXyglZTrYHs/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "Learn Nursery Rhymes with Mother Goose Club",
-					"pl_subjudul": "Mother Goose Club",
-					"pl_id": "PLgnDMw6xI5pmxZOynk0lt8tNBZzR5nOmn",
-					"pl_gambar": "https://i.ytimg.com/vi/FXyglZTrYHs/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "Nursery Rhymes for Kids Playlist",
-					"pl_subjudul": "Mother Goose Club",
-					"pl_id": "PLgnDMw6xI5plJpJaO1_iHvHHzxCNhUfrZ",
-					"pl_gambar": "https://i.ytimg.com/vi/GQot6M5_Flg/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "Mother Goose Club Playhouse - New Videos!",
-					"pl_subjudul": "Mother Goose Club Playhouse",
-					"pl_id": "PLEA75D0FA6E9C3623",
-					"pl_gambar": "https://i.ytimg.com/vi/IaD489JWaXc/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "Family Fun",
-					"pl_subjudul": "Cocomelon - Nursery Rhymes",
-					"pl_id": "PLT1rvk7Trkw7odS3tPR-3vMf8CuMJN5gP",
-					"pl_gambar": "https://i.ytimg.com/vi/SfeekNjadnE/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "Kids Songs by CoCoMelon",
-					"pl_subjudul": "Cocomelon - Nursery Rhymes",
-					"pl_id": "PLT1rvk7Trkw6-eCetnOs60kLGdmcHhyj0",
-					"pl_gambar": "https://i.ytimg.com/vi/SfeekNjadnE/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "Popular Compilations",
-					"pl_subjudul": "Cocomelon - Nursery Rhymes",
-					"pl_id": "PLT1rvk7Trkw621AGHhz4WQC2thuUawRek",
-					"pl_gambar": "https://i.ytimg.com/vi/Wbk4gZz2weQ/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "Popular Kids Songs & Nursery Rhymes Compilations - by BabyBus",
-					"pl_subjudul": "BabyBus - Kids Songs & Nursery Rhymes ",
-					"pl_id": "PLPA49Pz3BAxNtMM51uLT9WSlkrkELgpyn",
-					"pl_gambar": "https://i.ytimg.com/vi/LSesQ0GVyUw/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "Car Songs | Cars for Kids, Super Train | Vehicles for Kids",
-					"pl_subjudul": "BabyBus - Kids Songs & Nursery Rhymes ",
-					"pl_id": "PLPA49Pz3BAxOIhEYyGI-sPPqImVqshmjU",
-					"pl_gambar": "https://i.ytimg.com/vi/X3QYkzJBq6k/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "Animation & Kids Songs collections For Babies",
-					"pl_subjudul": "BabyBus - Kids Songs & Nursery Rhymes",
-					"pl_id": "PLPA49Pz3BAxPH1q9q0TeciWiJcEzhxNTf",
-					"pl_gambar": "https://i.ytimg.com/vi/2W3csTYLfPM/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "Best Job & Occupation Songs for Kids | What Do You Want to Be | Kids Pretend Play | Nursery Rhymes",
-					"pl_subjudul": "BabyBus - Kids Songs & Nursery Rhymes",
-					"pl_id": "PLPA49Pz3BAxOjbd9zHDQXAFBe1MacFy0Y",
-					"pl_gambar": "https://i.ytimg.com/vi/0GGzdXmvF5Y/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "LooLoo KIDS",
-					"pl_subjudul": "LooLoo Kids - Nursery Rhymes and Children's Songs",
-					"pl_id": "PLFkIjhjdbaAeXEGKY2-uEYv4RcAheX9W6",
-					"pl_gambar": "https://i.ytimg.com/vi/au_Zi4MP_4A/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "The best English songs for children - Music For Children",
-					"pl_subjudul": "LooLoo Kids - Nursery Rhymes and Children's Songs",
-					"pl_id": "PLFkIjhjdbaAc4QGDw3qtLQFxAOxfdWG4w",
-					"pl_gambar": "https://i.ytimg.com/vi/IsJEJ4gVp0M/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "Best Christmas Songs For Kids | LooLoo KIDS",
-					"pl_subjudul": "LooLoo Kids - Nursery Rhymes and Children's Songs",
-					"pl_id": "PLFkIjhjdbaAfarJexWGVNQs6FNg66eJem",
-					"pl_gambar": "https://i.ytimg.com/vi/R1plbRleF6o/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "Nursery Rhymes and Nursery Rhymes Karaoke",
-					"pl_subjudul": "Kids TV - Nursery Rhymes And Baby Songs",
-					"pl_id": "PLDt4VQajKv8xVf8zxjuz3tA-dJbCgT2wr",
-					"pl_gambar": "https://i.ytimg.com/vi/0E05jQYpdpE/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "Numbers Song With Crazy Eggs | Counting Numbers 123 | Nursery ",
-					"pl_subjudul": "Kids TV - Nursery Rhymes And Baby Songs",
-					"pl_id": "PLDt4VQajKv8ziAjM9xTusf17iCOYW4dqc",
-					"pl_gambar": "https://i.ytimg.com/vi/dsgch8iSRrE/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "Number Song For Children | Learning Videos | Counting Numbers 123 | Kids Tv Junior Squad Cartoons",
-					"pl_subjudul": "Kids TV - Nursery Rhymes And Baby Songs",
-					"pl_id": "PLDt4VQajKv8yVzbnkDF0iKrNhnb37Yo9c",
-					"pl_gambar": "https://i.ytimg.com/vi/WU2LJxK8DDE/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "Farmees Nursery Rhymes | Children Rhymes | Kids Songs",
-					"pl_subjudul": "Farmees - Nursery Rhymes And Kids Songs",
-					"pl_id": "PLt4czMqZnUQCLcdhzj4h1ifF2xyRxvmaN",
-					"pl_gambar": "https://i.ytimg.com/vi/_LuyHWjbqq4/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "Preschool Kindergarten | Nursery Rhymes For Kids | Babies Videos | Learning Rhymes with Fun",
-					"pl_subjudul": "Farmees - Nursery Rhymes And Kids Songs",
-					"pl_id": "PLt4czMqZnUQCOUCtGYSxgWbIk5p1aXXqu",
-					"pl_gambar": "https://i.ytimg.com/vi/nOblETETRcI/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "Farmees Nursery rhymes | Videos for Children | Baby Shows | Kids rhymes Playlist | Best Preschool Video",
-					"pl_subjudul": "Farmees - Nursery Rhymes And Kids Songs",
-					"pl_id": "PLt4czMqZnUQD9Rb4XbV2vXVwDcV8QjGAT",
-					"pl_gambar": "https://i.ytimg.com/vi/5rKf1ghFGlU/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "Nursery Rhymes For Toddlers | 3D Cartoon Rhyems | Preschool Kindergarten Song | Best playlist | Kids Videos | Top 15 Videos For Toddlers",
-					"pl_subjudul": "Farmees - Nursery Rhymes And Kids Songs",
-					"pl_id": "PLt4czMqZnUQA14G9DEPikQWjCsKaS9EkV",
-					"pl_gambar": "https://i.ytimg.com/vi/s8r-9StIoq0/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "Popular Baby Song Collection | Nursery Rhymes | Animated Videos For Kids",
-					"pl_subjudul": "Farmees - Nursery Rhymes And Kids Songs",
-					"pl_id": "PLt4czMqZnUQCCOvhl5TGk-fjVIAJNy3Z1",
-					"pl_gambar": "https://i.ytimg.com/vi/AnvY3rsN_RQ/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "Good Habits Bedtime Stories & Moral Stories for Kids - ChuChu TV Storytime",
-					"pl_subjudul": "ChuChu TV Nursery Rhymes & Kids Songs",
-					"pl_id": "PLV-cxl3VSwWHZz0NarV7B7fhYUkT0rAGX",
-					"pl_gambar": "https://i.ytimg.com/vi/Pb9C0poeDq0/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "ChuChu TV Classics - Popular Nursery Rhymes & Kids Songs",
-					"pl_subjudul": "ChuChu TV Nursery Rhymes & Kids Songs",
-					"pl_id": "PLV-cxl3VSwWHa83pPHIealm1vg0Cdp3aZ",
-					"pl_gambar": "https://i.ytimg.com/vi/7dfaLJEqCG0/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "Nursery Rhymes | Children Songs By ChuChu TV Kids Songs - The Best on YouTube!",
-					"pl_subjudul": "ChuChu TV Nursery Rhymes & Kids Songs",
-					"pl_id": "PLV-cxl3VSwWEZPb6yEvQaf68_yY8chu8U",
-					"pl_gambar": "https://i.ytimg.com/vi/R3XAfpxqfqQ/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "NEW 3D Nursery Rhymes with Baby Taku & Family",
-					"pl_subjudul": "ChuChu TV Nursery Rhymes & Kids Songs",
-					"pl_id": "PLV-cxl3VSwWEYTEMUd3RSzrTZq2q1hVnW",
-					"pl_gambar": "https://i.ytimg.com/vi/nKm0g1boEhE/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "Celebrate Christmas with Super Simple!",
-					"pl_subjudul": "Super Simple Songs - Kids Songs",
-					"pl_id": "PLdkj6XH8GYPSk8UkqUN1bKwW1ec2y2ffS",
-					"pl_gambar": "https://i.ytimg.com/vi/5qlbpMB-z_c/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "Celebrate Christmas With Super Simple Songs, Sesame Street & Bounce Patrol!",
-					"pl_subjudul": "Super Simple Songs - Kids Songs",
-					"pl_id": "PLdkj6XH8GYPTxYw02NW2A3wtgsO97wePz",
-					"pl_gambar": "https://i.ytimg.com/vi/Pn9ZA9QPhNU/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "Celebrate Christmas With Super Simple Songs & The Children's Kingdom!",
-					"pl_subjudul": "Super Simple Songs - Kids Songs",
-					"pl_id": "PLdkj6XH8GYPRE_BvWRMqs0Wx_ZOU2aD28",
-					"pl_gambar": "https://i.ytimg.com/vi/R_xrOI2Zkd0/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "Featured Videos from Super Simple",
-					"pl_subjudul": "Super Simple Songs - Kids Songs",
-					"pl_id": "PLdkj6XH8GYPQ1UmSJ3eSfcfF9QnibFv1l",
-					"pl_gambar": "https://i.ytimg.com/vi/chxQb4YRC2U/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "NEW from Super Simple Songs!",
-					"pl_subjudul": "Super Simple Songs - Kids Songs",
-					"pl_id": "PLdkj6XH8GYPRLPZbyO2hiwNf6N6fInVOm",
-					"pl_gambar": "https://i.ytimg.com/vi/chxQb4YRC2U/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "Liked videos",
-					"pl_subjudul": "Super Simple Songs - Kids Songs",
-					"pl_id": "LLLsooMJoIpl_7ux2jvdPB-Q",
-					"pl_gambar": "https://i.ytimg.com/vi/l3ujPXkUnhA/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "Super Simple Christmas Songs",
-					"pl_subjudul": "Super Simple Songs - Kids Songs",
-					"pl_id": "PLdkj6XH8GYPS_995T5ePH2Y7L6e7pbBvv",
-					"pl_gambar": "https://i.ytimg.com/vi/u0aAMvvw_co/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "Bounce Patrol - Latest New Songs!",
-					"pl_subjudul": "Bounce Patrol - Kids Songs",
-					"pl_id": "PLJIK7JrzV1Ih50kJLKvIGUPNx4kx18pHf",
-					"pl_gambar": "https://i.ytimg.com/vi/tUohq8UdWhY/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "Bounce Patrol en Español - Canciones Infantiles",
-					"pl_subjudul": "Bounce Patrol - Kids Songs",
-					"pl_id": "PLJIK7JrzV1IgekjfCAJ4knO_IE6iFm9SY",
-					"pl_gambar": "https://i.ytimg.com/vi/h7ndX8dQ7Ik/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "Animal Songs with The Children's Kingdom and Bounce Patrol",
-					"pl_subjudul": "Bounce Patrol - Kids Songs",
-					"pl_id": "PLJIK7JrzV1Ih510Q0dS62-oSg-qmya--3",
-					"pl_gambar": "https://i.ytimg.com/vi/X6uZd1jP_ZM/mqdefault.jpg"
-				},
-				{
-					"pl_judul": "Bounce Patrol - Original Kids Songs!",
-					"pl_subjudul": "Bounce Patrol - Kids Songs",
-					"pl_id": "PLJIK7JrzV1IgiEBqzdLbTLnIGvHy2bQOA",
-					"pl_gambar": "https://i.ytimg.com/vi/28yn_3BEraM/mqdefault.jpg"
+					"item_gambar" : "",
+					"item_judul" : "",
+					"item_deskripsi" : "",
+					"subitem" : [
+						{
+							"subitem_video" : "",
+							"subitem_judul" : "",
+							"subitem_konten" : "",
+							"subitem_efek_samping" : "",
+							"subitem_cara_pakai" : "",
+							"subitem_catatan" : ""
+						}
+					]
 				}
-				
+				{
+					"item_gambar" : "",
+					"item_judul" : "",
+					"item_deskripsi" : "",
+					"subitem" : [
+						{
+							"subitem_video" : "",
+							"subitem_judul" : "",
+							"subitem_konten" : "",
+							"subitem_efek_samping" : "",
+							"subitem_cara_pakai" : "",
+							"subitem_catatan" : ""
+						}
+					]
+				}
 			],
 			"data_konten": [
 				{
