@@ -11,10 +11,10 @@
 					"item_deskripsi" : "",
 					"konten" : [
 						{
-							"konten_judul" : "",
 							"konten_video" : "",
-							"konten_deskripsi" : "",
-							"konten_catatan" : ""
+							"konten_header" : "",
+							"konten_body" : "",
+							"konten_footer" : ""
 						}
 					]
 				}
