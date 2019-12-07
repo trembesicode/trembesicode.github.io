@@ -1,0 +1,33 @@
+{
+    "ERROR": false,
+    "MESSAGE": "fetching sukses",
+    "RESPONSE": [
+        {			
+		
+			"data_spices": [
+				{
+					"item_gambar" : "",
+					"item_judul" : "",
+					"item_deskripsi" : "",
+					"konten" : [
+						{
+							"konten_video" : "",
+							"konten_header" : "",
+							"konten_body" : "",
+							"konten_footer" : ""
+						}
+					]
+				}
+			],
+			"data_konten": [
+				{
+					"api_key": "AIzaSyAl6FFMGW0iu-c26A5WGxHT-gLtw_wyleQ",
+					"max_result": 20,
+					"visible_threshold": 3
+				}
+			]
+        }
+		
+    ]
+}
+
