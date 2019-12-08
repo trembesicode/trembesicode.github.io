@@ -27,7 +27,7 @@
 				
 					"admob_delay_millis_inters": 500,
 					"admob_safety": false,
-					"admob_aktif": false,
+					"admob_aktif": true,
 					"admob_pub_id": "pub-6966923492212298",
 					"admob_appid": "ca-app-pub-6966923492212298~8276386550",
                     "admob_banner": "ca-app-pub-6966923492212298/3285243313",
