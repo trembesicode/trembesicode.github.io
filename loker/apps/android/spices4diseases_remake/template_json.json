@@ -4,12 +4,12 @@
     "RESPONSE": [
         {			
 		
-			"data_spices": [
+			"data_artikel": [
 				{
-					"item_gambar" : "",
-					"item_judul" : "",
-					"item_deskripsi" : "",
-					"konten" : [
+					"artikel_gambar" : "",
+					"artikel_judul" : "",
+					"artikel_deskripsi" : "",
+					"artikel_konten" : [
 						{
 							"konten_video" : "",
 							"konten_header" : "",

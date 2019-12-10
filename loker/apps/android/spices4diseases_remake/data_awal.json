@@ -25,7 +25,7 @@
                 {
 					"audiens_campuran" : false,
 				
-					"admob_delay_millis_inters": 500,
+					"admob_delay_millis_inters": 200,
 					"admob_safety": false,
 					"admob_aktif": false,
 					"admob_pub_id": "pub-3940256099942544",
@@ -33,7 +33,7 @@
                     "admob_banner": "ca-app-pub-3940256099942544/6300978111",
                     "admob_inters": "ca-app-pub-3940256099942544/1033173712",
 					
-					"adx_delay_millis_inters": 500,
+					"adx_delay_millis_inters": 200,
 					"adx_safety": false,
 					"adx_aktif": false,
 					"adx_pub_id": "",
@@ -41,7 +41,7 @@
 					"adx_rect": "/6499/example/banner",
 					"adx_inters": "/6499/example/interstitial",
 					
-					"fb_delay_millis_inters": 500,
+					"fb_delay_millis_inters": 200,
 					"fb_safety": false,
 					"fb_aktif": false,
 					"fb_pub_id": "",
@@ -49,7 +49,7 @@
 					"fb_rect": "",
 					"fb_inters": "626643081135361_630633900736279",
 					
-					"startapp_delay_millis_inters": 500,
+					"startapp_delay_millis_inters": 200,
 					"startapp_safety": false,
 					"startapp_aktif": false,
 					"startapp_pub_id": "",
@@ -61,7 +61,7 @@
 			"data_media": [
 				{
 					"intro_video_url": "https://www.youtube.com/watch?v=KBCI-rK4uq4",
-					"data_playlist_url" : "https://trembesi.github.io/loker/apps/android/takupazer/data_playlist.json"
+					"data_konten_url" : "https://trembesi.github.io/loker/apps/android/spices4diseases_remake/data_artikel.json"
 				}
 			]
         }

@@ -4,12 +4,12 @@
     "RESPONSE": [
         {			
 		
-			"data_spices": [
+			"data_artikel": [
 				{
-					"item_gambar" : "https://trembesi.github.io/loker/apps/android/spices4diseases_remake/files/gambar/blackcumin.png",
-					"item_judul" : "Black Cumin",
-					"item_deskripsi" : "Black seed oil, commonly called black cumin seed oil",
-					"konten" : [
+					"artikel_gambar" : "https://trembesi.github.io/loker/apps/android/spices4diseases_remake/files/gambar/blackcumin.png",
+					"artikel_judul" : "Black Cumin",
+					"artikel_deskripsi" : "Black seed oil, commonly called black cumin seed oil",
+					"artikel_konten" : [
 						{
 							"konten_video" : "_krqlfaAwAM",
 							"konten_header" : "The Benefits of Black Seed Oil’s",
@@ -31,10 +31,10 @@
 					]
 				},
 				{
-					"item_gambar" : "",
-					"item_judul" : "",
-					"item_deskripsi" : "",
-					"konten" : [
+					"artikel_gambar" : "",
+					"artikel_judul" : "",
+					"artikel_deskripsi" : "",
+					"artikel_konten" : [
 						{
 							"konten_video" : "",
 							"konten_header" : "",
@@ -44,10 +44,10 @@
 					]
 				},
 				{
-					"item_gambar" : "",
-					"item_judul" : "",
-					"item_deskripsi" : "",
-					"konten" : [
+					"artikel_gambar" : "",
+					"artikel_judul" : "",
+					"artikel_deskripsi" : "",
+					"artikel_konten" : [
 						{
 							"konten_video" : "",
 							"konten_header" : "",
