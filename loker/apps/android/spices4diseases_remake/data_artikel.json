@@ -29,33 +29,8 @@
 							"konten_footer" : ""
 						}
 					]
-				},
-				{
-					"artikel_gambar" : "",
-					"artikel_judul" : "",
-					"artikel_deskripsi" : "",
-					"artikel_konten" : [
-						{
-							"konten_video" : "",
-							"konten_header" : "",
-							"konten_body" : "",
-							"konten_footer" : ""
-						}
-					]
-				},
-				{
-					"artikel_gambar" : "",
-					"artikel_judul" : "",
-					"artikel_deskripsi" : "",
-					"artikel_konten" : [
-						{
-							"konten_video" : "",
-							"konten_header" : "",
-							"konten_body" : "",
-							"konten_footer" : ""
-						}
-					]
 				}
+				
 			],
 			"data_konten": [
 				{
