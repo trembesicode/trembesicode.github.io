@@ -27,7 +27,35 @@
 							"konten_header" : "Side Effects",
 							"konten_body" : "<h3>Possible Side Effects of Black Seed Oil</h3><p>Here are some possible side effects:</p><ul><li><strong>Bleeding:</strong><p>It may slow the blood’s ability to clot so should not be used by anyone who suffers from bleeding disorders without first consulting with their physician. Users of black seed oil may experience an increase in bleeding or bruising.</p></li><li><strong>Low Blood Pressure:</strong><p>Individuals who already experience low blood pressure must never use black seed oil without first consulting with their physician because black cumin is well known to naturally lower blood pressure.</p></li><li><strong>Surgical Risk:</strong><p>Anyone using black seed oil ought to discontinue use at least two weeks prior to having a scheduled surgery. If the surgery is sudden, the individual must promptly tell their physician that they are using the dietary additive because it has been shown to interfere with anesthesia, blood sugar control, and may cause bleeding problems during surgery.</p></li><li><strong>Diabetes:</strong><p>Diabetes sufferers need to the substance with caution because of its ability to lower blood sugar levels.</p></li></ul><p>Advocates of black cumin seed oil feel strongly that it is an untapped natural miracle cure and preventative dietary supplement that is highly respected by naturopathic and holistic health practitioners. There is very little doubt that black seed oil has stood the test of time. The ancients clearly considered it a ‘must have’ medicinal aid and today researchers are still marveling at its many holistic uses.</p>",
 							"konten_footer" : ""
+						},
+						{
+							"artikel_gambar" : "gambar 2",
+							"artikel_judul" : "judul 2",
+							"artikel_deskripsi" : "deskripsi 2",
+							"artikel_konten" : [
+								{
+									"konten_video" : "video 2",
+									"konten_header" : "header 2",
+									"konten_body" : "body 2",
+									"konten_footer" : "footer 2"
+								}
+							]
+						},
+						{
+							"artikel_gambar" : "gambar 3",
+							"artikel_judul" : "judul 3",
+							"artikel_deskripsi" : "deskripsi 3",
+							"artikel_konten" : [
+								{
+									"konten_video" : "video 3",
+									"konten_header" : "header 3",
+									"konten_body" : "body 3",
+									"konten_footer" : "footer 3"
+								}
+							]
 						}
+						
+						
 					]
 				}
 				
