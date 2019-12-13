@@ -36,10 +36,16 @@
 					"artikel_deskripsi" : "deskripsi 2",
 					"artikel_konten" : [
 						{
-							"konten_video" : "video 2",
-							"konten_header" : "header 2",
-							"konten_body" : "body 2",
-							"konten_footer" : "footer 2"
+							"konten_video" : "video 2-1",
+							"konten_header" : "header 2-1",
+							"konten_body" : "body 2-1",
+							"konten_footer" : "footer 2-1"
+						},
+						{
+							"konten_video" : "video 2-2",
+							"konten_header" : "header 2-2",
+							"konten_body" : "body 2-2",
+							"konten_footer" : "footer 2-2"
 						}
 					]
 				},
@@ -49,10 +55,22 @@
 					"artikel_deskripsi" : "deskripsi 3",
 					"artikel_konten" : [
 						{
-							"konten_video" : "video 3",
-							"konten_header" : "header 3",
-							"konten_body" : "body 3",
-							"konten_footer" : "footer 3"
+							"konten_video" : "video 3-1",
+							"konten_header" : "header 3-1",
+							"konten_body" : "body 3-1",
+							"konten_footer" : "footer 3-1"
+						},
+						{
+							"konten_video" : "video 3-2",
+							"konten_header" : "header 3-2",
+							"konten_body" : "body 3-2",
+							"konten_footer" : "footer 3-2"
+						},
+						{
+							"konten_video" : "video 3-3",
+							"konten_header" : "header 3-3",
+							"konten_body" : "body 3-3",
+							"konten_footer" : "footer 3-3"
 						}
 					]
 				}
