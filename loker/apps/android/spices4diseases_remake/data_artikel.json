@@ -18,8 +18,8 @@
 							"konten_footer" : ""
 						},
 						{
-							"konten_thumbnail" : "",
-							"konten_video" : "05juF4O7xRg",
+							"konten_thumbnail" : "https://i.ytimg.com/vi/05juF4O7xRg/mqdefault.jpg",
+							"konten_video" : "https://www.youtube.com/watch?v=05juF4O7xRg",
 							"konten_header" : "Dosage",
 							"konten_body" : "<h3>Black Seed Oil Dosage When Taken as a Dietary Supplement </h3><p>In general, it is advised that first time users of the supplement start at a low dose such as using ½ a teaspoon once a day for two to seven days. The dose can then be increased to ½ a teaspoon twice a day for two to seven days. Eventually, most frequent users can build up to ingesting 3 teaspoons per day.</p><p>When using capsules, users need to take one to two capsules per day for three days then increase the dosage to three capsules per day. Many long time users of take six capsules per day.</p><p>As with all natural supplements, the dosage is tricky and depends on a variety of factors such as the user’s age, overall health, and medical conditions. Whenever purchasing a supplement for oral consumption, it is important that the user follow the recommended dosage on the label. Most health and naturopathic stores sell black seed oil in liquid form and in prefilled/measured capsules for oral consumption.</p><p>The oil can also be applied directly to the skin. People using the substance for hair regrowth or to condition the hair often mix the oil with coconut or argan before applying it to their tresses.</p><p>Pregnant and breastfeeding women must always consult their physician prior to use. Children five and under should never use any supplement without consulting with a physician.</p>",
 							"konten_footer" : ""
@@ -40,14 +40,14 @@
 					"artikel_konten" : [
 						{
 							"konten_thumbnail" : "",
-							"konten_video" : "video 2-1",
+							"konten_video" : "",
 							"konten_header" : "header 2-1",
 							"konten_body" : "body 2-1",
 							"konten_footer" : "footer 2-1"
 						},
 						{
 							"konten_thumbnail" : "",
-							"konten_video" : "video 2-2",
+							"konten_video" : "",
 							"konten_header" : "header 2-2",
 							"konten_body" : "body 2-2",
 							"konten_footer" : "footer 2-2"
@@ -61,21 +61,21 @@
 					"artikel_konten" : [
 						{
 							"konten_thumbnail" : "",
-							"konten_video" : "video 3-1",
+							"konten_video" : "",
 							"konten_header" : "header 3-1",
 							"konten_body" : "body 3-1",
 							"konten_footer" : "footer 3-1"
 						},
 						{
 							"konten_thumbnail" : "",
-							"konten_video" : "video 3-2",
+							"konten_video" : "",
 							"konten_header" : "header 3-2",
 							"konten_body" : "body 3-2",
 							"konten_footer" : "footer 3-2"
 						},
 						{
 							"konten_thumbnail" : "",
-							"konten_video" : "video 3-3",
+							"konten_video" : "",
 							"konten_header" : "header 3-3",
 							"konten_body" : "body 3-3",
 							"konten_footer" : "footer 3-3"
