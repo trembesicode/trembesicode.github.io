@@ -4,22 +4,23 @@
     "RESPONSE": [
         {			
 		
-			"data_artikel": [
+			"data_media": [
 				{
-					"artikel_gambar" : "",
-					"artikel_judul" : "",
-					"artikel_deskripsi" : "",
-					"artikel_konten" : [
+					"media_gambar" : "",
+					"media_judul" : "",
+					"media_deskripsi" : "",
+					"media_konten" : [
 						{
-							"konten_video" : "",
-							"konten_header" : "",
-							"konten_body" : "",
-							"konten_footer" : ""
+							"media_konten_thumbnail" : "",
+							"media_konten_video" : "",
+							"media_konten_header" : "",
+							"media_konten_body" : "",
+							"media_konten_footer" : ""
 						}
 					]
 				}
 			],
-			"data_konten": [
+			"data_yt": [
 				{
 					"api_key": "AIzaSyAl6FFMGW0iu-c26A5WGxHT-gLtw_wyleQ",
 					"max_result": 20,
