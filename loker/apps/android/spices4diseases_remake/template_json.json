@@ -24,7 +24,11 @@
 				{
 					"api_key": "AIzaSyAl6FFMGW0iu-c26A5WGxHT-gLtw_wyleQ",
 					"max_result": 20,
-					"visible_threshold": 3
+					"visible_threshold": 3,
+					"yt_host" : [
+						"www.youtube.com",
+						"m.youtube.com",
+						"youtube.com"
 				}
 			]
         }
