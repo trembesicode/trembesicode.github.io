@@ -27,7 +27,7 @@
 				
 					"admob_delay_millis_inters": 200,
 					"admob_safety": false,
-					"admob_aktif": false,
+					"admob_aktif": true,
 					"admob_pub_id": "pub-3940256099942544",
 					"admob_appid": "ca-app-pub-3940256099942544~3347511713",
                     "admob_banner": "ca-app-pub-3940256099942544/6300978111",
@@ -35,7 +35,7 @@
 					
 					"adx_delay_millis_inters": 200,
 					"adx_safety": false,
-					"adx_aktif": false,
+					"adx_aktif": true,
 					"adx_pub_id": "",
 					"adx_banner": "/6499/example/banner",
 					"adx_rect": "/6499/example/banner",
@@ -43,7 +43,7 @@
 					
 					"fb_delay_millis_inters": 200,
 					"fb_safety": false,
-					"fb_aktif": false,
+					"fb_aktif": true,
 					"fb_pub_id": "",
 					"fb_banner": "626643081135361_626643564468646",
 					"fb_rect": "",
@@ -51,7 +51,7 @@
 					
 					"startapp_delay_millis_inters": 200,
 					"startapp_safety": false,
-					"startapp_aktif": false,
+					"startapp_aktif": true,
 					"startapp_pub_id": "",
 					"startapp_id": "201808772",
 					"startapp_splash_aktif": false
