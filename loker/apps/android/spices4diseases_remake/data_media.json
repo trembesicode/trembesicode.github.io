@@ -34,24 +34,38 @@
 					]
 				},
 				{
-					"media_gambar" : "gambar 2",
-					"media_judul" : "judul 2",
-					"media_deskripsi" : "deskripsi 2",
+					"media_gambar" : "Black Pepper",
+					"media_judul" : "Black Pepper",
+					"media_deskripsi" : "known as a peppercorn, which is usually dried and used as a spice and seasoning",
 					"media_konten" : [
 						{
-							"media_konten_thumbnail" : "",
+							"media_konten_thumbnail" : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Piper_nigrum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-107.jpg/220px-Piper_nigrum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-107.jpg",
 							"media_konten_video" : "",
-							"media_konten_header" : "header 2-1",
-							"media_konten_body" : "body 2-1",
-							"media_konten_footer" : "footer 2-1"
+							"media_konten_header" : "Overview",
+							"media_konten_body" : "<p>Black pepper (Piper nigrum) is a flowering vine in the family Piperaceae, cultivated for its fruit, known as a peppercorn, which is usually dried and used as a spice and seasoning. When fresh and fully mature, it is about 5 mm (0.20 in) in diameter and dark red, and contains a single seed, like all drupes. Peppercorns and the ground pepper derived from them may be described simply as pepper, or more precisely as black pepper (cooked and dried unripe fruit), green pepper (dried unripe fruit), or white pepper (ripe fruit seeds).</p><p>Black pepper is native to present-day Kerala in South India,[3][4] and is extensively cultivated there and elsewhere in tropical regions. Vietnam is the world's largest producer and exporter of pepper, producing 34% of the world's crop, as of 2013.</p><p>Ground dried and cooked peppercorns have been used since antiquity, both for flavour and as a traditional medicine. Black pepper is the world's most traded spice, and is one of the most common spices added to cuisines around the world. Its spiciness is due to the chemical compound piperine, which is a different kind of spicy from the capsaicin characteristic of chili peppers. It is ubiquitous in the modern world as a seasoning, and is often paired with salt and available on dining tables in shakers or mills.</p>",
+							"media_konten_footer" : "source from wikipedia"
 						},
+						{
+							"media_konten_thumbnail" : "https://i.ytimg.com/vi/AdT3-1wRv2Q/mqdefault.jpg",
+							"media_konten_video" : "https://www.youtube.com/watch?v=AdT3-1wRv2Q",
+							"media_konten_header" : "Health Benefits of Black Pepper and Side Effects?",
+							"media_konten_body" : "<h4>What are the Top 10 Health Benefits of Black Pepper and Side Effects?</h4><p>An ancient valuable spice, pepper is like no other. These little peppercorns may as well be nuggets of gold because that's exactly what they were worth a few hundred years ago.  But why the intrigue with the benefits of pepper? What about this marvelous spice made it so incredibly valuable and so great for culinary cuisines?</p><p>Pepper is incredible not just because of its special compound piperine and its other vitamins and nutrients, but also because of its ability to boost the absorption of other nutrients and compounds so vital to the health of the body.  But despite what these tiny pepper balls are supposed to do for the body, one should also be aware of the side effects of consuming pepper in certain situations.</p><p>In this expose we get into the medications that can cause severe problems if you are taking black pepper with these pills at the same time. But certain types of people too, like pregnant and lactating women should also take care for themselves and for their children. </p><p>So whether you are wondering what black pepper can do for your body or want to make sure you are getting the type of pepper that is best for your health, check out what the research and scientists say about piper nigrum.</p>",
+							"media_konten_footer" : ""
+						},
+						{
+							"media_konten_thumbnail" : "https://i.ytimg.com/vi/O2hervOZ3_c/mqdefault.jpg",
+							"media_konten_video" : "https://www.youtube.com/watch?v=O2hervOZ3_c",
+							"media_konten_header" : "What Is Black Pepper Good For?",
+							"media_konten_body" : "<p>Black pepper is considered to be the “queen of seasonings”, due to its outstanding taste and international popularity.</p><p>This seasoning's virtues have to do with a substance called piperine, an active ingredient with many health benefits that helps your body to absorb certain substances.</p><p>Black pepper has not only been used to cook with, but also in home remedy recipes, for a long time.</p><h4>In today's video we're going to tell you about some of black pepper's health benefits:</h4><ul><li>It burns fat</li><li>It improves digestion</li><li>It reduces flatulence</li><li>It's an aphrodisiac </li><li>It improves nutrient absorption</li><li>It's rich in antioxidants</li><li>It helps you eat less salt</li><li>It relieves pain</li><li>It's a natural antidepressant </li></ul><br><p>The best way to benefit from all of its properties is by using freshly cracked pepper grounds, since they contain all of the nutritional compounds. Sprinkling a little black pepper on your food everyday is enough to obtain its health benefits.</p><p>If consumed excessively, it can irritate your mucous membranes, especially if you are sensitive.</p>",
+							"media_konten_footer" : ""
+						},,
 						{
 							"media_konten_thumbnail" : "",
 							"media_konten_video" : "",
-							"media_konten_header" : "header 2-2",
-							"media_konten_body" : "body 2-2",
-							"media_konten_footer" : "footer 2-2"
-						}
+							"media_konten_header" : "header 3-2",
+							"media_konten_body" : "body 3-2",
+							"media_konten_footer" : "footer 3-2"
+						},
 					]
 				},
 				{
