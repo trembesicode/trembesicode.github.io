@@ -79,20 +79,6 @@
 							"media_konten_header" : "header 3-1",
 							"media_konten_body" : "body 3-1",
 							"media_konten_footer" : "footer 3-1"
-						},
-						{
-							"media_konten_thumbnail" : "",
-							"media_konten_video" : "",
-							"media_konten_header" : "header 3-2",
-							"media_konten_body" : "body 3-2",
-							"media_konten_footer" : "footer 3-2"
-						},
-						{
-							"media_konten_thumbnail" : "",
-							"media_konten_video" : "",
-							"media_konten_header" : "header 3-3",
-							"media_konten_body" : "body 3-3",
-							"media_konten_footer" : "footer 3-3"
 						}
 					]
 				}
