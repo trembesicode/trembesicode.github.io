@@ -16,6 +16,13 @@
 							"media_konten_header" : "",
 							"media_konten_body" : "",
 							"media_konten_footer" : ""
+						},
+						{
+							"media_konten_thumbnail" : "",
+							"media_konten_video" : "",
+							"media_konten_header" : "",
+							"media_konten_body" : "",
+							"media_konten_footer" : ""
 						}
 					]
 				}
