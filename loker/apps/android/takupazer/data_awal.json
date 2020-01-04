@@ -23,7 +23,7 @@
 			
 			"data_exo": [
 				{
-					"banner_fullscreen_aktif" : false;
+					"banner_fullscreen_aktif" : true,
 					"ima_aktif" : false
 				}
 			],
