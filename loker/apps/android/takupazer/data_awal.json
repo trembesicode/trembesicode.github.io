@@ -23,6 +23,7 @@
 			
             "data_yotro": [
                 {
+					"tampil_banner_fullscreen" : false;
 					"audiens_campuran" : false,
 				
 					"admob_delay_millis_inters": 200,
