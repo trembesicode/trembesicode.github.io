@@ -32,15 +32,15 @@
                 {
 					"audiens_campuran" : true,
 				
-					"admob_delay_millis_inters": 500,
+					"admob_delay_millis_inters": 200,
 					"admob_safety": false,
 					"admob_aktif": false,
-					"admob_pub_id": "pub-6966923492212298",
-					"admob_appid": "ca-app-pub-6966923492212298~8276386550",
-                    "admob_banner": "ca-app-pub-6966923492212298/3285243313",
-                    "admob_inters": "ca-app-pub-6966923492212298/5344430446",
+					"admob_pub_id": "pub-3940256099942544",
+					"admob_appid": "ca-app-pub-3940256099942544~3347511713",
+                    "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+                    "admob_inters": "ca-app-pub-3940256099942544/1033173712",
 					
-					"adx_delay_millis_inters": 500,
+					"adx_delay_millis_inters": 200,
 					"adx_safety": false,
 					"adx_aktif": true,
 					"adx_pub_id": "",
@@ -48,7 +48,7 @@
 					"adx_rect": "/6499/example/banner",
 					"adx_inters": "/6499/example/interstitial",
 					
-					"fb_delay_millis_inters": 500,
+					"fb_delay_millis_inters": 200,
 					"fb_safety": false,
 					"fb_aktif": false,
 					"fb_pub_id": "",
@@ -56,7 +56,7 @@
 					"fb_rect": "",
 					"fb_inters": "626643081135361_630633900736279",
 					
-					"startapp_delay_millis_inters": 500,
+					"startapp_delay_millis_inters": 200,
 					"startapp_safety": false,
 					"startapp_aktif": false,
 					"startapp_pub_id": "",
