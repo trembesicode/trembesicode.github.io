@@ -6,54 +6,834 @@
 		
 			"data_lirik": [
 				{
-					"lirik_judul" : "'Alal madinah",
+					"lirik_judul" : "Ahlan Wa Sahlan",
 					"lirik_subjudul" : "",
-					"lirik_url" : ""
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/ahlan_wa_sahlan.html"
 				},
 				{
-					"lirik_judul" : "",
+					"lirik_judul" : "Aiqontu",
 					"lirik_subjudul" : "",
-					"lirik_url" : ""
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Aiqontu.html"
 				},
 				{
-					"lirik_judul" : "",
+					"lirik_judul" : "Ajmala Dzikro",
 					"lirik_subjudul" : "",
-					"lirik_url" : ""
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ajmala_Dzikro.html"
 				},
 				{
-					"lirik_judul" : "",
+					"lirik_judul" : "Akhi Anta Hurrun",
 					"lirik_subjudul" : "",
-					"lirik_url" : ""
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Akhi_Anta_Hurrun.html"
 				},
 				{
-					"lirik_judul" : "",
+					"lirik_judul" : "Aktsir Ukhoyya",
 					"lirik_subjudul" : "",
-					"lirik_url" : ""
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Aktsir_Ukhoyya.html"
 				},
 				{
-					"lirik_judul" : "",
+					"lirik_judul" : "Al Hijrotu",
 					"lirik_subjudul" : "",
-					"lirik_url" : ""
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Al_Hijrotu.html"
 				},
 				{
-					"lirik_judul" : "",
+					"lirik_judul" : "Al I’tirof",
 					"lirik_subjudul" : "",
-					"lirik_url" : ""
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Al_I’tirof.html"
 				},
 				{
-					"lirik_judul" : "",
+					"lirik_judul" : "Al Islam Sallim Ya Salam",
 					"lirik_subjudul" : "",
-					"lirik_url" : ""
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Al_Islam_Sallim_Ya_Salam.html"
 				},
 				{
-					"lirik_judul" : "",
+					"lirik_judul" : "Al Madad",
 					"lirik_subjudul" : "",
-					"lirik_url" : ""
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Al_Madad.html"
 				},
 				{
-					"lirik_judul" : "",
+					"lirik_judul" : "Al Qolbul Mutayyam",
 					"lirik_subjudul" : "",
-					"lirik_url" : ""
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Al_Qolbul_Mutayyam.html"
+				},
+				{
+					"lirik_judul" : "Ala Ya Allah Ya Robb",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ala_Ya_Allah_Ya_Robb.html"
+				},
+				{
+					"lirik_judul" : "'Alal Madinah",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/ALAL_MADINAH.html"
+				},
+				{
+					"lirik_judul" : "Alangkah Indahnya",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Alangkah_Indahnya.html"
+				},
+				{
+					"lirik_judul" : "Alfa salam",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Alfa_salam.html"
+				},
+				{
+					"lirik_judul" : "Alfa Shollallah",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Alfa_Shollallah.html"
+				},
+				{
+					"lirik_judul" : "Alhamdulillah",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Alhamdulillah.html"
+				},
+				{
+					"lirik_judul" : "Allahu Robbi",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Allahu_Robbi.html"
+				},
+				{
+					"lirik_judul" : "Allahumma Sholli ‘Ala Muhammad",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Allahumma_sholli_‘ala_Muhammad.html"
+				},
+				{
+					"lirik_judul" : "Alloh Ya Robbi",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Alloh_Ya_Robbi.html"
+				},
+				{
+					"lirik_judul" : "Allohu Alloh",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Allohu_Alloh.html"
+				},
+				{
+					"lirik_judul" : "Ana Dhoifak",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ana_Dhoifak.html"
+				},
+				{
+					"lirik_judul" : "Anal Islam",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Anal_islam.html"
+				},
+				{
+					"lirik_judul" : "Annabi Shollu ‘Alaih",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Annabi_Shollu_‘Alaih.html"
+				},
+				{
+					"lirik_judul" : "Anta Nuskhotul Akwan",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Anta_Nuskhotul_Akwan.html"
+				},
+				{
+					"lirik_judul" : "Antal Adzim",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Antal_Adzim.html"
+				},
+				{
+					"lirik_judul" : "Antal Hana",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Antal_Hana.html"
+				},
+				{
+					"lirik_judul" : "Antudkhilana",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Antudkhilana.html"
+				},
+				{
+					"lirik_judul" : "Arif Bihubbillah",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Arif_bihubbillah.html"
+				},
+				{
+					"lirik_judul" : "Assalamu ‘Alaika",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Assalamu_‘Alaika.html"
+				},
+				{
+					"lirik_judul" : "Assholatu ‘Alan Nabi",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Assholatu_‘Alan_Nabi.html"
+				},
+				{
+					"lirik_judul" : "Assholatu Wassalamu ‘Alaik",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Assholatu_wassalamu_‘Alaik.html"
+				},
+				{
+					"lirik_judul" : "Asshubhu Bada",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Asshubhu_Bada.html"
+				},
+				{
+					"lirik_judul" : "Asyroqot Anwaru Nabina",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Asyroqot_anwaru_nabina.html"
+				},
+				{
+					"lirik_judul" : "Ayyu Dzikro",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ayyu_Dzikro.html"
+				},
+				{
+					"lirik_judul" : "Azzka Taslimi",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Azzka_Taslimi.html"
+				},
+				{
+					"lirik_judul" : "Baina Katifaihi ‘Alaamah",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Baina_Katifaihi_‘Alaamah.html"
+				},
+				{
+					"lirik_judul" : "Bihal Quluh",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Bihal_Quluh.html"
+				},
+				{
+					"lirik_judul" : "Bijaahil Musthofal Mukhtar",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Bijaahil_Musthofal_Mukhtar.html"
+				},
+				{
+					"lirik_judul" : "Binafsiya Afdi (Kutebuskan Jiwaku)",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Binafsiya_Afdi_(Kutebuskan_Jiwaku).html"
+				},
+				{
+					"lirik_judul" : "Birasulillahi Wal Badawi",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Birasulillahi_Wal_Badawi.html"
+				},
+				{
+					"lirik_judul" : "Buniyal Islam",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Buniyal_Islam.html"
+				},
+				{
+					"lirik_judul" : "Burikti",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Burikti.html"
+				},
+				{
+					"lirik_judul" : "Busyro Lana",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Busyro_Lana.html"
+				},
+				{
+					"lirik_judul" : "Da'uni",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/da'uni.html"
+				},
+				{
+					"lirik_judul" : "Dawini",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Dawini.html"
+				},
+				{
+					"lirik_judul" : "Fi Sulaima",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Fi_Sulaima.html"
+				},
+				{
+					"lirik_judul" : "Ghuroba",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ghuroba.html"
+				},
+				{
+					"lirik_judul" : "Hal Fiddunya",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Hal_Fiddunya.html"
+				},
+				{
+					"lirik_judul" : "Hana Qolbi",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Hana_Qolbi.html"
+				},
+				{
+					"lirik_judul" : "Hasbi Rabbi",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Hasbi_Rabbi.html"
+				},
+				{
+					"lirik_judul" : "Hayyul Hadi",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Hayyul_Hadi.html"
+				},
+				{
+					"lirik_judul" : "Hubbun Nabi",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Hubbun_Nabi.html"
+				},
+				{
+					"lirik_judul" : "Huwan Nur",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Huwan_Nur.html"
+				},
+				{
+					"lirik_judul" : "Ibadalloh",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/IBADALLAH.html"
+				},
+				{
+					"lirik_judul" : "Ilaahin Nas Aluk Bil Ismil 'Adzom",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ilaahin_Nas_Aluk_Bil_Ismil_'Adzom.html"
+				},
+				{
+					"lirik_judul" : "Inna Fil Jannati",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Inna_Fil_Jannati.html"
+				},
+				{
+					"lirik_judul" : "Jallaman",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Jallaman.html"
+				},
+				{
+					"lirik_judul" : "Ji’nal Madinah",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ji’nal_Madinah.html"
+				},
+				{
+					"lirik_judul" : "Kalamun Qodim",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Kalamun_Qodim.html"
+				},
+				{
+					"lirik_judul" : "Khobbiri",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Khobbiri.html"
+				},
+				{
+					"lirik_judul" : "Khoiril Ibad",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Khoiril_Ibad.html"
+				},
+				{
+					"lirik_judul" : "Khoirol Bariyyah",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Khoirol_Bariyyah.html"
+				},
+				{
+					"lirik_judul" : "Kuntu An Thola’al Badru",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Kuntu_An_Thola’al_Badru.html"
+				},
+				{
+					"lirik_judul" : "La Ilaha Illallah",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/La_Ilaha_Illallah.html"
+				},
+				{
+					"lirik_judul" : "Lighoiri Jamalikum",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Lighoiri_Jamalikum.html"
+				},
+				{
+					"lirik_judul" : "Lir_Ilir",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Lir_Ilir.html"
+				},
+				{
+					"lirik_judul" : "Lisani Bihamdillah",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Lisani_Bihamdillah.html"
+				},
+				{
+					"lirik_judul" : "Maa Madda Likhoiril Kholqi Yadaa",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Maa_Madda_Likhoiril_Kholqi_Yadaa.html"
+				},
+				{
+					"lirik_judul" : "Mahallul Qiyam Asyroqol Kaunubtihajan",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Mahallul_Qiyam_Asyroqol_Kaunubtihajan.html"
+				},
+				{
+					"lirik_judul" : "Mahallul Qiyam Ya Nabi Salam Alaika",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Mahallul_Qiyam_Ya_Nabi_Salam_Alaika.html"
+				},
+				{
+					"lirik_judul" : "Maulana Ya Maulana",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Maulana_Ya_Maulana.html"
+				},
+				{
+					"lirik_judul" : "Maulidu Ahmad",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Maulidu_Ahmad.html"
+				},
+				{
+					"lirik_judul" : "Maulidul Hadi",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Maulidul_Hadi.html"
+				},
+				{
+					"lirik_judul" : "Miftahul Jannah",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Miftahul_Jannah.html"
+				},
+				{
+					"lirik_judul" : "Nabiyyal Huda",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Nabiyyal_Huda.html"
+				},
+				{
+					"lirik_judul" : "Nabiyyuna",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Nabiyyuna.html"
+				},
+				{
+					"lirik_judul" : "Nahron Min Laban",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Nahron_min_Laban.html"
+				},
+				{
+					"lirik_judul" : "Namdahul Hadi",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Namdahul_Hadi.html"
+				},
+				{
+					"lirik_judul" : "Nas’aluk Bil Asmail A’dzom",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Nas’aluk_Bil_asmail_a’dzom.html"
+				},
+				{
+					"lirik_judul" : "Nurul Huda Wafana",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Nurul_Huda_Wafana.html"
+				},
+				{
+					"lirik_judul" : "Nurul Musthofa",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Nurul_Musthofa.html"
+				},
+				{
+					"lirik_judul" : "Padhang Bulan",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Padang_Bulan.html"
+				},
+				{
+					"lirik_judul" : "Qod Faaza",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Qod_Faaza.html"
+				},
+				{
+					"lirik_judul" : "Qod Kaffani",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Qod_Kaffani.html"
+				},
+				{
+					"lirik_judul" : "Qod Madho",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Qod_Madho.html"
+				},
+				{
+					"lirik_judul" : "Qod Tamamallah",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Qod_Tamamallah.html"
+				},
+				{
+					"lirik_judul" : "Robbahu",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Robbahu.html"
+				},
+				{
+					"lirik_judul" : "Robbi Faj’al Mujtama’na",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Robbi_Faj’al_Mujtama’na.html"
+				},
+				{
+					"lirik_judul" : "Robbi Kholaq Thoha",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Robbi_Kholaq_Thoha.html"
+				},
+				{
+					"lirik_judul" : "Rohatil Athyaru Tasydu",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Rohatil_Athyaru_Tasydu.html"
+				},
+				{
+					"lirik_judul" : "Rohmaka",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Rohmaka.html"
+				},
+				{
+					"lirik_judul" : "Salamun Salamun",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Salamun_Salamun.html"
+				},
+				{
+					"lirik_judul" : "Shohibus Syafa’ah",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Shohibus_Syafa’ah.html"
+				},
+				{
+					"lirik_judul" : "Sholallahu Ala Muhammad",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Sholallahu_Ala_Muhammad.html"
+				},
+				{
+					"lirik_judul" : "Sholatullah",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Sholatullah.html"
+				},
+				{
+					"lirik_judul" : "Sholatullah ‘Ala Thohal Yamani",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Sholatullah_‘Ala_Thohal_Yamani.html"
+				},
+				{
+					"lirik_judul" : "Sholatullah Salamullah",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Sholatullah_Salamullah.html"
+				},
+				{
+					"lirik_judul" : "Sholatullahi Wasalaam",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Sholatullahi_Wasalaam.html"
+				},
+				{
+					"lirik_judul" : "Sholatun Bissalamil Mubin",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Sholatun_Bissalamil_Mubin.html"
+				},
+				{
+					"lirik_judul" : "Sholawat Badar",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Sholawat_Badar.html"
+				},
+				{
+					"lirik_judul" : "Sholawat Kawakib",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Sholawat_Kawakib.html"
+				},
+				{
+					"lirik_judul" : "Sholawat Nariyyah",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Sholawat_Nariyyah.html"
+				},
+				{
+					"lirik_judul" : "Sholawatullahi Taghsya",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Sholawatullahi_Taghsya.html"
+				},
+				{
+					"lirik_judul" : "Shollallah",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Shollallah.html"
+				},
+				{
+					"lirik_judul" : "Shollallahu Wasallama",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Shollallahu_Wasallama.html"
+				},
+				{
+					"lirik_judul" : "Shollu Alan Nur",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/.Sholllu_Alan_Nurhtml"
+				},
+				{
+					"lirik_judul" : "Shollu Ala Man Ja'ana",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Shollu_Ala_man_ja-ana.html"
+				},
+				{
+					"lirik_judul" : "Sholluu Alan Nurilladzi",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Sholluu_Alan_Nurilladzi.html"
+				},
+				{
+					"lirik_judul" : "Sidnan Nabi",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Sidnan_Nabi.html"
+				},
+				{
+					"lirik_judul" : "Subhanalloh",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Subhanalloh.html"
+				},
+				{
+					"lirik_judul" : "Syahru Rabi’",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Syahru_Rabi’.html"
+				},
+				{
+					"lirik_judul" : "Syi'ir Tanpo Waton",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Syi'ir_Tanpo_Waton.html"
+				},
+				{
+					"lirik_judul" : "Thola’al Badru ‘Alaina",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Thola’al_Badru_‘Alaina.html"
+				},
+				{
+					"lirik_judul" : "Tholama",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Tholama.html"
+				},
+				{
+					"lirik_judul" : "Tibbil Qulub",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Tibbil_Qulub.html"
+				},
+				{
+					"lirik_judul" : "Winta",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Winta.html"
+				},
+				{
+					"lirik_judul" : "Wulidal_Musyarrof",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Wulidal_Musyarrof.html"
+				},
+				{
+					"lirik_judul" : "Ya Abidal Haramain",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Abidal_Haramain.html"
+				},
+				{
+					"lirik_judul" : "Ya Ala Baiti Nabi",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Ala_Baiti_Nabi.html"
+				},
+				{
+					"lirik_judul" : "Ya 'Ala Golbin",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_'Ala_Golbin.html"
+				},
+				{
+					"lirik_judul" : "Ya Allah Athlubak",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Allah_Athlubak.html"
+				},
+				{
+					"lirik_judul" : "Ya Allah Biha",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Allah_Biha.html"
+				},
+				{
+					"lirik_judul" : "Ya Allah Bil Qobul",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Allah_bil_Qobul.html"
+				},
+				{
+					"lirik_judul" : "Ya Arhamarrahimin",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Arhamarrahimin.html"
+				},
+				{
+					"lirik_judul" : "Ya Asyiqol Musthofa",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Asyiqol_Musthofa.html"
+				},
+				{
+					"lirik_judul" : "Ya Badrotim",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Badrotim.html"
+				},
+				{
+					"lirik_judul" : "Ya Banil Mushtofa",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Banil_Mushtofa.html"
+				},
+				{
+					"lirik_judul" : "Ya Dzal Jalali Wal Ikram",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Dzal_Jalali_Wal_Ikram.html"
+				},
+				{
+					"lirik_judul" : "Ya Habib",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Habib.html"
+				},
+				{
+					"lirik_judul" : "Ya Habibana",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Habibana.html"
+				},
+				{
+					"lirik_judul" : "Ya Habibana Sya'ailillah",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Habibana_Sya'ailillah.html"
+				},
+				{
+					"lirik_judul" : "Ya Habibi",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Habibi.html"
+				},
+				{
+					"lirik_judul" : "Ya Hadi Sir Ruwaidan",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Hadi_Sir_Ruwaidan.html"
+				},
+				{
+					"lirik_judul" : "Ya Hanana",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Hanana.html"
+				},
+				{
+					"lirik_judul" : "Ya Hannan Ya Mannan",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Hannan_Ya_Mannan.html"
+				},
+				{
+					"lirik_judul" : "Ya Ilahi",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Ilahi.html"
+				},
+				{
+					"lirik_judul" : "Ya Imamar Rusli",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Imamar_Rusli.html"
+				},
+				{
+					"lirik_judul" : "Ya Izzana",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Izzana.html"
+				},
+				{
+					"lirik_judul" : "Ya Khoiro Hadi",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Khoiro_Hadi.html"
+				},
+				{
+					"lirik_judul" : "Ya Laqolbin",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Laqolbin.html"
+				},
+				{
+					"lirik_judul" : "Ya Lathifan Bil’ibad",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Lathifan_bil’ibad.html"
+				},
+				{
+					"lirik_judul" : "Ya Man Ya’fu",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Man_Ya’fu.html"
+				},
+				{
+					"lirik_judul" : "Ya Maulidal Musthofa",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Maulidal_Musthofa.html"
+				},
+				{
+					"lirik_judul" : "Ya Nabi Salam",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Nabi_Salam.html"
+				},
+				{
+					"lirik_judul" : "Ya Nabiyam Mim Qidam",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Nabiyam_mim_Qidam.html"
+				},
+				{
+					"lirik_judul" : "Ya Nashim",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Nashim.html"
+				},
+				{
+					"lirik_judul" : "Ya Rabbi Sallimna",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Rabbi_Sallimna.html"
+				},
+				{
+					"lirik_judul" : "Ya Rasul Khudz Biyadi",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Rasul_Khudz_Biyadi.html"
+				},
+				{
+					"lirik_judul" : "Ya Rasulallah Syafa’ah",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Rasulallah_Syafa’ah.html"
+				},
+				{
+					"lirik_judul" : "Ya Rasulallah Ya Nabi",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Rasulallah_Ya_Nabi.html"
+				},
+				{
+					"lirik_judul" : "Ya Rasulullah Salamun 'Alaik",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Rasulullah_Salamun_'Alaik.html"
+				},
+				{
+					"lirik_judul" : "Ya Robbah Makkah",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Robbah_Makkah.html"
+				},
+				{
+					"lirik_judul" : "Ya Robbi Bil Musthofa",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Robbi_bil_Musthofa.html"
+				},
+				{
+					"lirik_judul" : "Ya Robbi Sholli",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Robbi_Sholli.html"
+				},
+				{
+					"lirik_judul" : "Ya Robbi Ya ‘Alimal Hal",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Robbi_Ya_‘Alimal_Hal.html"
+				},
+				{
+					"lirik_judul" : "Ya Rosulallah",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Rosulallah.html"
+				},
+				{
+					"lirik_judul" : "Ya Rosulallah Ya Ahlal Wafa",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Rosulallah_Ya_Ahlal_Wafa.html"
+				},
+				{
+					"lirik_judul" : "Ya Sayyidarrusli",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Sayyidarrusli.html"
+				},
+				{
+					"lirik_judul" : "Ya Sayyidassadat",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Sayyidassadat.html"
+				},
+				{
+					"lirik_judul" : "Ya Sayyidi Rosul Ya Thohir",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Sayyidi_Rosul_Ya_Thohir.html"
+				},
+				{
+					"lirik_judul" : "Ya Sayyidi Ya Rasulallah",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Sayyidi_Ya_Rasulallah.html"
+				},
+				{
+					"lirik_judul" : "Ya_Thoibah",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Thoibah.html"
+				},
+				{
+					"lirik_judul" : "Ya Thoir Min Murawwam",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_thoir_min_murawwam.html"
+				},
+				{
+					"lirik_judul" : "Ya Uhailal Hubb",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Uhailal_Hubb.html"
+				},
+				{
+					"lirik_judul" : "Ya Waridal Mustofa",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Ya_Waridal_Mustofa.html"
+				},
+				{
+					"lirik_judul" : "Yaa Tawwab Tub 'Alaina",
+					"lirik_subjudul" : "",
+					"lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/files/wewewe/Yaa_Tawwab_Tub_'Alaina.html"
 				},
 				
 			]
