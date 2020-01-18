@@ -25,7 +25,7 @@
                 {
 					"audiens_campuran" : false,
 				
-					"admob_delay_millis_inters": 400,
+					"admob_delay_millis_inters": 4000,
 					"admob_safety": false,
 					"admob_aktif": true,
 					"admob_pub_id": "pub-6966923492212298",
