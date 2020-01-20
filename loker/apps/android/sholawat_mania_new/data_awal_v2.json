@@ -6,22 +6,33 @@
 			"data_app": [
 				{
 					"force_update_app": false,
-					"force_update_url": "https://play.google.com/store/apps/details?id=com.sasipitu.sholawat.mania.newyear2k20",
+					"force_update_url": "https://play.google.com/store/apps/details?id=com.sasipitu.dzikrulghofilin2",
 					"force_update_judul": "Update",
 					"force_update_deskripsi": "Sorry, this application is outdated, please update or replace the application with the new version.",
 					
 					"safety_menu_setelan_aktif": false,
 					
 					"privpol_kawitan_versi": 1,
-					"privpol_kawitan_url": "https://trembesi.github.io/loker/apps/android/happy_kid_song/privpol/privpol_kawitan.html",
+					"privpol_kawitan_url": "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/privpol/privpol_kawitan.html",
+					"privpol_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/privpol/sholawatmania_privpol.html",
 					
 					"pariworo_url" : "https://trembesi.github.io/loker/apps/android/pariworo.json"
 					
 				}
 			],
 			
+			"data_exo": [
+				{
+					"banner_fullscreen_aktif" : false,
+					"ima_aktif" : false
+				}
+			],
+			
             "data_yotro": [
                 {
+					"audiens_campuran" : false,
+				
+					"admob_delay_millis_inters": 200,
 					"admob_safety": false,
 					"admob_aktif": true,
 					"admob_pub_id": "pub-6966923492212298",
@@ -29,13 +40,15 @@
                     "admob_banner": "ca-app-pub-6966923492212298/8638219339",
                     "admob_inters": "ca-app-pub-6966923492212298/9946936733",
 					
-					"appota_safety": false,
-					"appota_aktif": false,
-					"appota_pub_id": "",
-					"appota_banner": "/6499/example/banner",
-					"appota_rect": "/6499/example/banner",
-					"appota_inters": "/6499/example/interstitial",
+					"adx_delay_millis_inters": 200,
+					"adx_safety": false,
+					"adx_aktif": false,
+					"adx_pub_id": "",
+					"adx_banner": "/6499/example/banner",
+					"adx_rect": "/6499/example/banner",
+					"adx_inters": "/6499/example/interstitial",
 					
+					"fb_delay_millis_inters": 200,
 					"fb_safety": false,
 					"fb_aktif": false,
 					"fb_pub_id": "",
@@ -43,6 +56,7 @@
 					"fb_rect": "",
 					"fb_inters": "626643081135361_630633900736279",
 					
+					"startapp_delay_millis_inters": 200,
 					"startapp_safety": false,
 					"startapp_aktif": false,
 					"startapp_pub_id": "",
@@ -51,9 +65,10 @@
                 }
             ],
 			
-			"data_media": [
+			"data_konten": [
 				{
-					"intro_video_url": "jik golek pidio"
+					"intro_video_url": "https://www.youtube.com/watch?v=KBCI-rK4uq4",
+					"data_konten_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/data_playlist.json"
 				}
 			]
         }
