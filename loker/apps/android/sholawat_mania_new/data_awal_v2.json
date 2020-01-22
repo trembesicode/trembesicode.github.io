@@ -68,7 +68,8 @@
 			"data_konten": [
 				{
 					"intro_video_url": "https://www.youtube.com/watch?v=KBCI-rK4uq4",
-					"data_konten_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/data_playlist_v2.json"
+					"data_konten_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/data_playlist_v2.json",
+					"data_konten_lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/data_lirik.json"
 				}
 			]
         }
