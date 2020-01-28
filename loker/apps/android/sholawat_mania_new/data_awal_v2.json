@@ -35,7 +35,7 @@
 					"admob_delay_millis_inters": 200,
 					"admob_safety": false,
 					"admob_aktif": true,
-					"admob_adsize_global" : 2,
+					"admob_adsize_global" : 1,
 					"admob_adsize_box" : 2,
 					"admob_pub_id": "pub-3940256099942544",
 					"admob_appid": "ca-app-pub-3940256099942544~3347511713",
