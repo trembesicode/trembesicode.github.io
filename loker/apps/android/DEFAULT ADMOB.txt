@@ -2,3 +2,10 @@
 "admob_appid": "ca-app-pub-3940256099942544~3347511713",
 "admob_banner": "ca-app-pub-3940256099942544/6300978111",
 "admob_inters": "ca-app-pub-3940256099942544/1033173712",
+
+
+SIZE CODE FROM JSON
+    # 0 = BANNER            (Mobile Marketing Association (MMA) banner ad size (320x50 density-independent pixels).)
+    # 1 = SMART_BANNER      (A dynamically sized banner that is full-width and auto-height.)
+    # 2 = MEDIUM_RECTANGLE  (Interactive Advertising Bureau (IAB) medium rectangle ad size (300x250 density-independent pixels).)
+    # 3 = FLUID             (A dynamically sized banner that matches its parent's width and expands/contracts its height to match the ad's content after loading completes.)
