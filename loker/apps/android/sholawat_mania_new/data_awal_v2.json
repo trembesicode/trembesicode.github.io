@@ -32,9 +32,9 @@
                 {
 					"audiens_campuran" : false,
 				
-					"admob_delay_millis_inters": 200,
+					"admob_delay_millis_inters": 500,
 					"admob_safety": false,
-					"admob_aktif": false,
+					"admob_aktif": true,
 					"admob_adsize_global" : 1,
 					"admob_adsize_box" : 2,
 					"admob_pub_id": "pub-6966923492212298",
