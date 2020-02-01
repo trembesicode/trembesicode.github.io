@@ -1,0 +1,81 @@
+{
+    "ERROR": false,
+    "MESSAGE": "fetching sukses",
+    "RESPONSE": [
+        {
+			"data_app": [
+				{
+					"force_update_app": false,
+					"force_update_url": "https://play.google.com/store/apps/details?id=com.sasipitu.dzikrulghofilin2",
+					"force_update_judul": "Update",
+					"force_update_deskripsi": "Sorry, this application is outdated, please update or replace the application with the new version.",
+					
+					"safety_menu_setelan_aktif": false,
+					
+					"privpol_kawitan_versi": 1,
+					"privpol_kawitan_url": "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/privpol/privpol_kawitan.html",
+					"privpol_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/privpol/sholawatmania_privpol.html",
+					
+					"pariworo_url" : "https://trembesi.github.io/loker/apps/android/pariworo.json"
+					
+				}
+			],
+			
+			"data_exo": [
+				{
+					"banner_fullscreen_aktif" : false,
+					"ima_aktif" : false
+				}
+			],
+			
+            "data_yotro": [
+                {
+					"audiens_campuran" : false,
+				
+					"admob_delay_millis_inters": 2000,
+					"admob_safety": false,
+					"admob_aktif": true,
+					"admob_adsize_global" : 1,
+					"admob_adsize_box" : 2,
+					"admob_pub_id": "pub-6966923492212298",
+					"admob_appid": "ca-app-pub-6966923492212298~3764671768",
+                    "admob_banner": "ca-app-pub-6966923492212298/8638219339",
+                    "admob_inters": "ca-app-pub-6966923492212298/9946936733",
+					
+					"adx_delay_millis_inters": 200,
+					"adx_safety": false,
+					"adx_aktif": false,
+					"adx_pub_id": "",
+					"adx_banner": "/6499/example/banner",
+					"adx_rect": "/6499/example/banner",
+					"adx_inters": "/6499/example/interstitial",
+					
+					"fb_delay_millis_inters": 200,
+					"fb_safety": false,
+					"fb_aktif": false,
+					"fb_pub_id": "",
+					"fb_banner": "626643081135361_626643564468646",
+					"fb_rect": "",
+					"fb_inters": "626643081135361_630633900736279",
+					
+					"startapp_delay_millis_inters": 200,
+					"startapp_safety": false,
+					"startapp_aktif": false,
+					"startapp_pub_id": "",
+					"startapp_id": "201808772",
+					"startapp_splash_aktif": false
+                }
+            ],
+			
+			"data_konten": [
+				{
+					"intro_video_url": "https://www.youtube.com/watch?v=KBCI-rK4uq4",
+					"data_konten_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/data_playlist_v2.json",
+					"data_konten_lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/data_lirik.json"
+				}
+			]
+        }
+		
+    ]
+}
+
