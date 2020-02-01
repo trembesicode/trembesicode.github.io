@@ -69,9 +69,10 @@
 			
 			"data_konten": [
 				{
-					"intro_video_url": "https://www.youtube.com/watch?v=KBCI-rK4uq4",
-					"data_konten_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/data_playlist_v2.json",
-					"data_konten_lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/data_lirik.json"
+					"stats" : "https://de1.api.radio-browser.info/json/stats",
+					"list_negara" : "https://de1.api.radio-browser.info/json/countries",
+					"by_nama_negara" : "https://de1.api.radio-browser.info/json/stations/bycountry/",
+					"by_uuid" : "https://de1.api.radio-browser.info/json/stations/byuuid/",				
 				}
 			]
         }
