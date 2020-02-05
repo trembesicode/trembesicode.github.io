@@ -71,13 +71,17 @@
 				{
 					"intro_video_url": "https://www.youtube.com/watch?v=KBCI-rK4uq4",
 					"data_konten_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/data_playlist_v2.json",
-					"data_konten_lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/data_lirik.json",
-					
+					"data_konten_lirik_url" : "https://trembesi.github.io/loker/apps/android/sholawat_mania_new/data_lirik.json"
+				}
+			],
+			
+			"data_radio": [
+				{
 					"radio_limit" : 50,
 					"radio_stats" : "https://de1.api.radio-browser.info/json/stats",
 					"radio_list_negara" : "https://de1.api.radio-browser.info/json/countries",
 					"radio_by_nama_negara" : "https://de1.api.radio-browser.info/json/stations/bycountry/",
-					"radio_by_uuid" : "https://de1.api.radio-browser.info/json/stations/byuuid/"				
+					"radio_by_uuid" : "https://de1.api.radio-browser.info/json/stations/byuuid/"			
 				}
 			]
         }
