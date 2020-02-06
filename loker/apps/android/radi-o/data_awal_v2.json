@@ -81,6 +81,7 @@
 					"radio_limit_result" : 10,
 					"radio_stats" : "https://de1.api.radio-browser.info/json/stats",
 					"radio_list_negara" : "https://de1.api.radio-browser.info/json/countries/",
+					"radio_list_negara_kode" : "https://de1.api.radio-browser.info/json/countrycodes/",
 					"radio_by_kode_negara" : "https://de1.api.radio-browser.info/json/stations/bycountrycodeexact/",
 					"radio_by_nama_negara" : "https://de1.api.radio-browser.info/json/stations/bycountry/",
 					"radio_by_uuid" : "https://de1.api.radio-browser.info/json/stations/byuuid/"			
