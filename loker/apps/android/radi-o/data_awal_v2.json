@@ -78,7 +78,7 @@
 			"data_radio": [
 				{
 					"radio_visible_threshold" : "1",
-					"radio_limit_result" : 26,
+					"radio_limit_result" : 25,
 					"radio_stats" : "https://de1.api.radio-browser.info/json/stats",
 					"radio_list_negara" : "https://de1.api.radio-browser.info/json/countries/",
 					"radio_list_negara_kode" : "https://de1.api.radio-browser.info/json/countrycodes/",
