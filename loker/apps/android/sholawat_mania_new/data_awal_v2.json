@@ -32,15 +32,15 @@
                 {
 					"audiens_campuran" : false,
 				
-					"admob_delay_millis_inters": 2000,
+					"admob_delay_millis_inters": 1000,
 					"admob_safety": false,
 					"admob_aktif": true,
 					"admob_adsize_global" : 1,
 					"admob_adsize_box" : 2,
-					"admob_pub_id": "pub-6966923492212298",
-					"admob_appid": "ca-app-pub-6966923492212298~3764671768",
-                    "admob_banner": "ca-app-pub-6966923492212298/8638219339",
-                    "admob_inters": "ca-app-pub-6966923492212298/9946936733",
+					"admob_pub_id": "pub-1380459176952684",
+					"admob_appid": "ca-app-pub-1380459176952684~7701777654",
+                    "admob_banner": "ca-app-pub-1380459176952684/9078454417",
+                    "admob_inters": "ca-app-pub-1380459176952684/4673123788",
 					
 					"adx_delay_millis_inters": 200,
 					"adx_safety": false,

@@ -22,10 +22,10 @@
                 {
 					"admob_safety": true,
 					"admob_aktif": true,
-					"admob_pub_id": "pub-6966923492212298",
-					"admob_appid": "ca-app-pub-6966923492212298~3474626212",
-                    "admob_banner": "ca-app-pub-6966923492212298/2963985160",
-                    "admob_inters": "ca-app-pub-6966923492212298/7222299534",
+					"admob_pub_id": "pub-1380459176952684",
+					"admob_appid": "ca-app-pub-1380459176952684~3614374747",
+                    "admob_banner": "ca-app-pub-1380459176952684/1362426554",
+                    "admob_inters": "ca-app-pub-1380459176952684/1857250579",
 					
 					"appota_safety": false,
 					"appota_aktif": false,
