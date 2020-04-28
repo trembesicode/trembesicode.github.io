@@ -14,12 +14,12 @@ position:absolute;
 top:-3px;
 margin-left:-7px;
 z-index:200;
-background:url(http://trembesiblog.esy.es/TW_Reborn/image/mnpl_tlb_btns.png) -84px bottom no-repeat;
+background:url(https://trembesi.github.io/loker/tw_reborn/image/mnpl_tlb_btns.png) -84px bottom no-repeat;
 outline:none;
 }
 
 .mbl .ui-widget-header {
-background:url(http://trembesiblog.esy.es/TW_Reborn/image/mnpl_tlb_btns.png) repeat-x 0 0;
+background:url(https://trembesi.github.io/loker/tw_reborn/image/mnpl_tlb_btns.png) repeat-x 0 0;
 height:8px;
 left:0;
 top:0;
@@ -37,7 +37,7 @@ box-shadow:0 0 20px 0 rgba(0,0,0,0.5);
 height:328px;
 border:1px solid #000;
 border-radius:3px;
-background:url(http://trembesiblog.esy.es/TW_Reborn/image/playlist_bg.png) 0 0 repeat;
+background:url(https://trembesi.github.io/loker/tw_reborn/image/playlist_bg.png) 0 0 repeat;
 margin:0px;
 }
 
@@ -59,7 +59,7 @@ width:28px;
 height:30px;
 left:0;
 top:0;
-background:url(http://trembesiblog.esy.es/TW_Reborn/image/mnpl_tlb_btns.png) 0 0 no-repeat;
+background:url(https://trembesi.github.io/loker/tw_reborn/image/mnpl_tlb_btns.png) 0 0 no-repeat;
 cursor:pointer;
 }
 
@@ -69,7 +69,7 @@ width:28px;
 height:30px;
 left:28px;
 top:0;
-background:url(http://trembesiblog.esy.es/TW_Reborn/image/mnpl_tlb_btns.png) -116px 0 no-repeat;
+background:url(https://trembesi.github.io/loker/tw_reborn/image/mnpl_tlb_btns.png) -116px 0 no-repeat;
 cursor:pointer;
 }
 
@@ -83,7 +83,7 @@ width:28px;
 height:30px;
 left:56px;
 top:0;
-background:url(http://trembesiblog.esy.es/TW_Reborn/image/mnpl_tlb_btns.png) -56px 0 no-repeat;
+background:url(https://trembesi.github.io/loker/tw_reborn/image/mnpl_tlb_btns.png) -56px 0 no-repeat;
 cursor:pointer;
 border-right:1px solid #000;
 }
@@ -139,7 +139,7 @@ border-bottom:1px solid #000;
 border-left:1px solid #151515;
 border-right:1px solid #000;
 border-radius:5px;
-background: #333 url(http://trembesiblog.esy.es/TW_Reborn/image/album-cover-bg.jpg) no-repeat 0 0 scroll;
+background: #333 url(https://trembesi.github.io/loker/tw_reborn/image/album-cover-bg.jpg) no-repeat 0 0 scroll;
 }
 
 
@@ -165,7 +165,7 @@ float:left;
 width:10px;
 height:10px;
 padding-right:4px;
-background:url(http://trembesiblog.esy.es/TW_Reborn/image/mnpl_tlb_btns.png) -84px 0 no-repeat;
+background:url(https://trembesi.github.io/loker/tw_reborn/image/mnpl_tlb_btns.png) -84px 0 no-repeat;
 opacity:0.2;
 }
 
@@ -182,7 +182,7 @@ left:129px;
 top:120px;
 width:12px;
 height:11px;
-background:url(http://trembesiblog.esy.es/TW_Reborn/image/mnpl_tlb_btns.png) -98px bottom no-repeat;
+background:url(https://trembesi.github.io/loker/tw_reborn/image/mnpl_tlb_btns.png) -98px bottom no-repeat;
 }
 
 .mbl_player .mbl_volume_max {
@@ -191,11 +191,11 @@ left:208px;
 top:118px;
 width:18px;
 height:15px;
-background:url(http://trembesiblog.esy.es/TW_Reborn/image/mnpl_tlb_btns.png) -98px 0 no-repeat;
+background:url(https://trembesi.github.io/loker/tw_reborn/image/mnpl_tlb_btns.png) -98px 0 no-repeat;
 }
 
 .mbl_playlist {
-background:url(http://trembesiblog.esy.es/TW_Reborn/image/playlist_bg.png) 0 0 repeat;
+background:url(https://trembesi.github.io/loker/tw_reborn/image/playlist_bg.png) 0 0 repeat;
 overflow-y:auto;
 position:absolute;
 width:auto;
