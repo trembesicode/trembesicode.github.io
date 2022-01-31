@@ -1,0 +1,3 @@
+# My Adguard Home whitelist
+#Admob
+@@||apps.admob.com^$important
