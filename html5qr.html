@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+</head>
+<body>
+    <div id="status">Initializing...</div>
+    Choose image(s) to decode:
+    <input id="ipt-file" type="file" multiple accept="image/png,image/jpeg,image/bmp,image/gif" disabled>
+    <br><br>
+    <button id="btn-show-scanner" disabled>show scanner</button>
+
+<!-- Please visit https://www.dynamsoft.com/customer/license/trialLicense to get a trial license. -->
+<script src="https://cdn.jsdelivr.net/npm/dynamsoft-javascript-barcode@9.0.0/dist/dbr.js" data-license="DLS2eyJoYW5kc2hha2VDb2RlIjoiMjAwMDAxLTE2NDk4Mjk3OTI2MzUiLCJvcmdhbml6YXRpb25JRCI6IjIwMDAwMSIsInNlc3Npb25QYXNzd29yZCI6IndTcGR6Vm05WDJrcEQ5YUoifQ=="></script>
+
+<script>
+    // Dynamsoft.DBR.BarcodeReader._bUseFullFeature = true; // Control of loading min wasm or full wasm.
+
+    // reader for decoding picture
+    let reader = null;
+    // scanner for decoding video
+    let scanner = null;
+    window.onload = async function() {
+        reader = reader || await Dynamsoft.DBR.BarcodeReader.createInstance();
+        if (reader) {
+            document.getElementById('ipt-file').disabled = "";
+        }
+        scanner = scanner || await Dynamsoft.DBR.BarcodeScanner.createInstance();
+        if (scanner) {
+            document.getElementById('btn-show-scanner').disabled = "";
+        }
+        
+        if (reader!= null || scanner!=null) {
+            document.getElementById('status').remove();
+        }
+    }
+    // decode input picture
+    document.getElementById('ipt-file').addEventListener('change', async function(){
+        let resultsToAlert = [];
+        for(let i = 0; i < this.files.length; ++i){
+            let file = this.files[i];
+            resultsToAlert.push(i + '. ' + file.name + ":");
+            let results = await reader.decode(file);
+            console.log(results);
+            for(let result of results){
+                resultsToAlert.push(result.barcodeText);
+            }
+        }
+        alert(resultsToAlert.join('\n'));
+        this.value = '';
+    });
+
+    // decode video from camera
+    document.getElementById('btn-show-scanner').addEventListener('click', async () => {
+        scanner.onFrameRead = results => {
+            if(results.length){
+                console.log(results);
+            }
+        };
+        scanner.onUniqueRead = (txt, result) => {
+            alert(result.barcodeFormatString + ': ' + txt);
+        };
+        await scanner.show();
+    });
+</script>
+</body>
+</html>
