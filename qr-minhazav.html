@@ -20,6 +20,7 @@
 			docReady(function () {
 				var resultContainer = document.getElementById('qr-reader-results');
 				var lastResult, countResults = 0;
+				
 				function onScanSuccess(decodedText, decodedResult) {
 					if (decodedText !== lastResult) {
 						++countResults;
@@ -27,18 +28,35 @@
 						// Handle on success condition with the decoded message.
 						console.log(`Scan result ${decodedText}`, decodedResult);
 						alert(`Scan result ${decodedText}`, decodedResult);
+						//this will stop the scanner (video feed) and clear the scan area.
+						html5QrcodeScanner.clear();
 					}
 				}
+				
+				function onScanFailure(error) {
+					// handle scan failure, usually better to ignore and keep scanning.
+					// for example:
+					console.warn(`Code scan error = ${error}`);
+					alert(`Code scan error = ${error}`);
+					//this will stop the scanner (video feed) and clear the scan area.
+					html5QrcodeScanner.clear();
 
+				}
+				/*
 				var html5QrcodeScanner = new Html5QrcodeScanner(
 					"qr-reader", { fps: 10, qrbox: 250 });
 				html5QrcodeScanner.render(onScanSuccess);
-			});
+				*/
+				let html5QrcodeScanner = new Html5QrcodeScanner(
+					"qr-reader", { fps: 10, qrbox: {width: 250, height: 250} }, /* verbose= */ false);
+					html5QrcodeScanner.render(onScanSuccess, onScanFailure);
+				});
 		</script>
 	</head>
 	
 	<body>
-		<p>tambah result alert</p>
+		<p>- alert</p>
+		<p>- success n failed result</p>
 		<div id="qr-reader" style="width:500px"></div>
 		<div id="qr-reader-results"></div>
 	</body>
