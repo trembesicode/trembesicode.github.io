@@ -60,14 +60,14 @@
 				}
 
 				var html5QrcodeScanner = new Html5QrcodeScanner(
-					"reader", { fps: 10, qrbox: 250 });
+					"qr-reader", { fps: 10, qrbox: 250 });
 				html5QrcodeScanner.render(onScanSuccess, onScanError);
 		</script>
 	</head>
 	
 	<body>
 		<p>- alert</p>
-		<p>- ganti success n failed result</p>
+		<p>- ganti success n failed result qr-reader</p>
 		<div id="qr-reader" style="width:500px"></div>
 		<div id="qr-reader-results"></div>
 	</body>
