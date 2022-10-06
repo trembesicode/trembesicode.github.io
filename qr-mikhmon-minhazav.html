@@ -36,7 +36,8 @@
 						//this will stop the scanner (video feed) and clear the scan area.
 						html5QrcodeScanner.stop();
 						html5QrcodeScanner.clear();
-						window.location.replace(`${decodedText}`);
+						//location.replace(`${decodedText}`);
+						klikURLReplace(`${decodedText}`);
 					}
 				}
 				
@@ -71,6 +72,12 @@
 				html5QrcodeScanner.render(onScanSuccess, onScanError);
 				*/
 			});
+			
+			function klikURLReplace(url) {
+			  location.replace(url)
+			  console.log("replace url with: " + url)
+			}
+			
 		</script>
 	</head>
 	
